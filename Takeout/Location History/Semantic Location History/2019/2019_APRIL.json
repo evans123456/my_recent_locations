@@ -1,0 +1,347 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "address" : "Nairobi\nKenya",
+        "name" : "Sunvalley Phase II home",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 65.76978
+      },
+      "duration" : {
+        "startTimestampMs" : "1554373831790",
+        "endTimestampMs" : "1554570164738"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13225980,
+      "centerLngE7" : 367719332,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 13.703387
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 5.103596
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 4.481646
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 3.9806404
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 3.9233594
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 1.7362977
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 0.7977646
+      }, {
+        "latitudeE7" : -13233486,
+        "longitudeE7" : 367714763,
+        "placeId" : "ChIJDeEv_5kaLxgRCqiFTzneADE",
+        "locationConfidence" : 0.50352544
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "address" : "Nairobi\nKenya",
+        "name" : "Sunvalley Phase II home",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 73.97113
+      },
+      "duration" : {
+        "startTimestampMs" : "1554657015184",
+        "endTimestampMs" : "1554845347861"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13225700,
+      "centerLngE7" : 367719100,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 10.071588
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 4.0776315
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 3.246233
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 2.923436
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 2.8558576
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 1.7566446
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 0.7298513
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "address" : "Nairobi\nKenya",
+        "name" : "Sunvalley Phase II home",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 80.0839
+      },
+      "duration" : {
+        "startTimestampMs" : "1555016012052",
+        "endTimestampMs" : "1555115174246"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13225808,
+      "centerLngE7" : 367719199,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 7.516442
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 3.3762908
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 2.613366
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 2.3313103
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 1.7339319
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 1.5976692
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 0.4922469
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 84.20052
+      },
+      "duration" : {
+        "startTimestampMs" : "1555269294712",
+        "endTimestampMs" : "1555288930754"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13225800,
+      "centerLngE7" : 367719200,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 10.8968935
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.9573565
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 0.83212125
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.66955626
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 0.648956
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 60.377308
+      },
+      "duration" : {
+        "startTimestampMs" : "1556048067437",
+        "endTimestampMs" : "1556049701599"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13225729,
+      "centerLngE7" : 367719186,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 27.525843
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 3.2770624
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 3.0545862
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 2.7088432
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 1.5503824
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 0.6758216
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.6215573
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 86.04312
+      },
+      "duration" : {
+        "startTimestampMs" : "1556276517570",
+        "endTimestampMs" : "1556419502971"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13225700,
+      "centerLngE7" : 367719200,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 8.568912
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.4113412
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.9794972
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 0.9520654
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.793117
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 0.6685519
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

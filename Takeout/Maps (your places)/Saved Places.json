@@ -1,0 +1,58 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 36.6724420, -1.2369422 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Kikuyu&ftid=0x182f1f1511f7a545:0x7d0974094ebbaac3",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-1.2369422",
+          "Longitude" : "36.6724420"
+        }
+      },
+      "Published" : "2020-12-18T20:06:53Z",
+      "Title" : "Kikuyu",
+      "Updated" : "2020-12-18T20:06:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 36.8813402, -0.9553519 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-0.9553518741316315,36.881340220570564",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-0.9553519",
+          "Longitude" : "36.8813402"
+        }
+      },
+      "Published" : "2020-10-17T11:26:48Z",
+      "Title" : "-0.9553518741316315,36.881340220570564",
+      "Updated" : "2020-10-17T11:26:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 36.8810129, -0.9550676 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Gatei&ftid=0x1828cb4269333b6b:0x275afd622124c9ad",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "-0.9550676",
+          "Longitude" : "36.8810129"
+        }
+      },
+      "Published" : "2020-10-17T11:26:02Z",
+      "Title" : "Gatei",
+      "Updated" : "2020-10-17T11:26:02Z"
+    },
+    "type" : "Feature"
+  } ]
+}

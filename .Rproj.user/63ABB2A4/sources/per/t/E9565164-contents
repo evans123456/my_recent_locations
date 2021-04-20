@@ -1,0 +1,44 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -0.5922770, 51.2429720 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb12412480cbca1a",
+      "Location" : {
+        "Address" : "Stag Hill, University Campus, Site, Guildford GU2 7XH, United Kingdom",
+        "Business Name" : "IFH - Innovation for Health Building",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "51.2429720",
+          "Longitude" : "-0.5922770"
+        }
+      },
+      "Published" : "2021-03-08T18:16:46.680882Z",
+      "Star Rating" : 5
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 36.7843863, -1.2966102 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Aspect Ratings" : [ "Professional", "On time", "Good quality", "Responsive", "Good value" ],
+      "Google Maps URL" : "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x49cfc9b2ff1d20f6",
+      "Location" : {
+        "Address" : "Menelik court, Menelik Rd, Nairobi, Kenya",
+        "Business Name" : "REXE Roofing Products Ltd",
+        "Geo Coordinates" : {
+          "Latitude" : "-1.2966102",
+          "Longitude" : "36.7843863"
+        }
+      },
+      "Published" : "2021-01-14T20:52:45.547956Z",
+      "Star Rating" : 5
+    },
+    "type" : "Feature"
+  } ]
+}

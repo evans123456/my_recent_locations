@@ -1,0 +1,191 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 39.914333
+      },
+      "duration" : {
+        "startTimestampMs" : "1559887420626",
+        "endTimestampMs" : "1559936866709"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12951725,
+      "centerLngE7" : 368054442,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12946283,
+        "longitudeE7" : 368058899,
+        "placeId" : "ChIJe52aNsAQLxgRLCMqnkAtNG8",
+        "locationConfidence" : 4.4015656
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 3.4116282
+      }, {
+        "latitudeE7" : -12971501,
+        "longitudeE7" : 368051180,
+        "placeId" : "ChIJjVdduOoQLxgRcSQ8aYha5g4",
+        "locationConfidence" : 3.2183084
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 3.0381622
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.6620846
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 1.0424128
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJMbbpOsAQLxgRPQFdoTqgdT8",
+        "locationConfidence" : 0.71076727
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 0.5935064
+      }, {
+        "latitudeE7" : -12949940,
+        "longitudeE7" : 368048980,
+        "placeId" : "ChIJtSHzOsAQLxgRdQM4Eg3DLCc",
+        "locationConfidence" : 0.58508337
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12947880,
+        "longitudeE7" : 368067260,
+        "placeId" : "ChIJoWAaz8EQLxgRWAvPEYvAG1o",
+        "address" : "Ralph Bunche Road\n3rd Floor, Upper Hill Medical Center\nP O 12604\nNairobi\nKenya",
+        "name" : "Dr. Patrick Amoth",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 76.0497
+      },
+      "duration" : {
+        "startTimestampMs" : "1560071632624",
+        "endTimestampMs" : "1560259024590"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12948490,
+      "centerLngE7" : 368054220,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJv_F7OsAQLxgRYu2TYZZeQRw",
+        "locationConfidence" : 12.158973
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRLiUAOG2v6RA",
+        "locationConfidence" : 1.3957119
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 1.0343041
+      }, {
+        "latitudeE7" : -12950259,
+        "longitudeE7" : 368079863,
+        "placeId" : "ChIJk-ml5cEQLxgRCVJVc_k_FhQ",
+        "locationConfidence" : 0.7976881
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 0.71557
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 52.988758
+      },
+      "duration" : {
+        "startTimestampMs" : "1561528427042",
+        "endTimestampMs" : "1561554154919"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12948520,
+      "centerLngE7" : 368054600,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 17.011707
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 3.1517007
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 1.788746
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJRV5OqoARLxgRdW8JvlY5gQ4",
+        "locationConfidence" : 1.0145074
+      }, {
+        "latitudeE7" : -12948951,
+        "longitudeE7" : 368054572,
+        "placeId" : "ChIJk7hpJcAQLxgRC13Q8iQeV4E",
+        "locationConfidence" : 0.95694953
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 0.6201075
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJ9ScVOsAQLxgR5LwCE9Lkh6Q",
+        "locationConfidence" : 0.52076364
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.49904
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJMbbpOsAQLxgRPQFdoTqgdT8",
+        "locationConfidence" : 0.48065802
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

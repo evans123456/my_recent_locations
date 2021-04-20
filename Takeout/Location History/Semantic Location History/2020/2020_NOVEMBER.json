@@ -1,0 +1,996 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12804727,
+        "longitudeE7" : 368228404,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12299113,
+        "longitudeE7" : 368039104,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1605773610419",
+        "endTimestampMs" : "1605774732000"
+      },
+      "distance" : 351,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 52.092915773391724
+      }, {
+        "activityType" : "STILL",
+        "probability" : 30.319491028785706
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 9.948214143514633
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.7754107490181923
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.667652629315853
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.8115963079035282
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.39083301089704037
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.3411755198612809
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3212919691577554
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.18859232077375054
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.10080774081870914
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.02095577510772273
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.014245141937863082
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.00527656520716846
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0015419964256579988
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -12815205,
+          "lngE7" : 368224694,
+          "timestampMs" : "1605773626300",
+          "accuracyMeters" : 41
+        }, {
+          "latE7" : -12707250,
+          "lngE7" : 368208042,
+          "timestampMs" : "1605773762999",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : -12695886,
+          "lngE7" : 368203402,
+          "timestampMs" : "1605773777999",
+          "accuracyMeters" : 7
+        }, {
+          "latE7" : -12684946,
+          "lngE7" : 368205689,
+          "timestampMs" : "1605773792999",
+          "accuracyMeters" : 7
+        }, {
+          "latE7" : -12664583,
+          "lngE7" : 368231459,
+          "timestampMs" : "1605773973000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : -12628730,
+          "lngE7" : 368250994,
+          "timestampMs" : "1605774086000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : -12591641,
+          "lngE7" : 368267758,
+          "timestampMs" : "1605774146000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : -12569245,
+          "lngE7" : 368261992,
+          "timestampMs" : "1605774176000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : -12550660,
+          "lngE7" : 368245686,
+          "timestampMs" : "1605774206000",
+          "accuracyMeters" : 8
+        }, {
+          "latE7" : -12509258,
+          "lngE7" : 368180888,
+          "timestampMs" : "1605774285000",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : -12466373,
+          "lngE7" : 368155425,
+          "timestampMs" : "1605774375000",
+          "accuracyMeters" : 7
+        }, {
+          "latE7" : -12440801,
+          "lngE7" : 368143651,
+          "timestampMs" : "1605774405000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : -12362107,
+          "lngE7" : 368062517,
+          "timestampMs" : "1605774531000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : -12347248,
+          "lngE7" : 368037552,
+          "timestampMs" : "1605774576000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : -12330153,
+          "lngE7" : 368030882,
+          "timestampMs" : "1605774636000",
+          "accuracyMeters" : 4
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "address" : "Nairobi\nKenya",
+        "name" : "Sunvalley Phase II home",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 51.119442
+      },
+      "duration" : {
+        "startTimestampMs" : "1605883694131",
+        "endTimestampMs" : "1605929857140"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13226033,
+      "centerLngE7" : 367718400,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13226398,
+        "longitudeE7" : 367719612,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "locationConfidence" : 18.668695
+      }, {
+        "latitudeE7" : -13221530,
+        "longitudeE7" : 367736890,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 5.5900083
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 3.6228955
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 2.9897928
+      }, {
+        "latitudeE7" : -13148253,
+        "longitudeE7" : 367412408,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 2.8387415
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 1.9455631
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.695138
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.6372782
+      }, {
+        "latitudeE7" : -13221289,
+        "longitudeE7" : 367747932,
+        "placeId" : "ChIJZVjyW4kbLxgRebIPHlTL2e8",
+        "locationConfidence" : 0.46000218
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13006549,
+        "longitudeE7" : 367871010,
+        "placeId" : "ChIJCz3xipsQLxgRHZdNqnea670",
+        "address" : "Ngong Road P O 45425 Nairobi KE\nNairobi\nKenya",
+        "name" : "Prestige Plaza Shopping Mall",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 19.07388
+      },
+      "duration" : {
+        "startTimestampMs" : "1605929857140",
+        "endTimestampMs" : "1605938916117"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -13007656,
+          "longitudeE7" : 367871335,
+          "placeId" : "ChIJ15sId5wQLxgR2FBCty-xt0E",
+          "address" : "Ngong Road P O 45425 Nairobi KE\nNairobi\nKenya",
+          "name" : "Prestige Cinemas",
+          "sourceInfo" : {
+            "deviceTag" : 450382058
+          },
+          "locationConfidence" : 9.081253
+        },
+        "duration" : {
+          "startTimestampMs" : "1605929857140",
+          "endTimestampMs" : "1605938916117"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -12999100,
+        "centerLngE7" : 367859850,
+        "visitConfidence" : 84,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -12979638,
+          "longitudeE7" : 367866375,
+          "placeId" : "ChIJcxUC2p4QLxgRxJPe-_FB6qc",
+          "locationConfidence" : 4.3871107
+        }, {
+          "latitudeE7" : -13011550,
+          "longitudeE7" : 367847583,
+          "placeId" : "ChIJ6bxLs50QLxgR2bgFMWNwfIc",
+          "locationConfidence" : 3.2326388
+        }, {
+          "latitudeE7" : -12999970,
+          "longitudeE7" : 367875052,
+          "placeId" : "ChIJof0B-ZsQLxgRez-kRbT09hI",
+          "locationConfidence" : 1.8233491
+        }, {
+          "latitudeE7" : -12997701,
+          "longitudeE7" : 367869363,
+          "placeId" : "ChIJ247kdBsRLxgRnrBlQ-1ZDqw",
+          "locationConfidence" : 1.6538476
+        }, {
+          "latitudeE7" : -13002380,
+          "longitudeE7" : 367867239,
+          "placeId" : "ChIJKTY9c5wQLxgRY3j0Q5JptJ0",
+          "locationConfidence" : 1.5691417
+        }, {
+          "latitudeE7" : -12989624,
+          "longitudeE7" : 367864837,
+          "placeId" : "ChIJz2PSu54QLxgRJdgajtfVBdM",
+          "locationConfidence" : 1.3871453
+        }, {
+          "latitudeE7" : -12982931,
+          "longitudeE7" : 367867053,
+          "placeId" : "ChIJMURtxZ4QLxgRASJBOSC_4t4",
+          "locationConfidence" : 1.0193788
+        }, {
+          "latitudeE7" : -12998922,
+          "longitudeE7" : 367887071,
+          "placeId" : "ChIJ2f1w-ZsQLxgR6i6ShIxexDM",
+          "locationConfidence" : 0.90287226
+        }, {
+          "latitudeE7" : -13002444,
+          "longitudeE7" : 367841477,
+          "placeId" : "ChIJ0Xnt0mQRLxgRtxM3dGiUvgc",
+          "locationConfidence" : 0.76889217
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -12999100,
+      "centerLngE7" : 367859850,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12989624,
+        "longitudeE7" : 367864837,
+        "placeId" : "ChIJz2PSu54QLxgRJdgajtfVBdM",
+        "locationConfidence" : 12.748529
+      }, {
+        "latitudeE7" : -12979638,
+        "longitudeE7" : 367866375,
+        "placeId" : "ChIJcxUC2p4QLxgRxJPe-_FB6qc",
+        "locationConfidence" : 11.130967
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 9.24156
+      }, {
+        "latitudeE7" : -13247614,
+        "longitudeE7" : 367774827,
+        "placeId" : "ChIJKaE425gaLxgRDaL6f5b5tL8",
+        "locationConfidence" : 6.50139
+      }, {
+        "latitudeE7" : -13002444,
+        "longitudeE7" : 367841477,
+        "placeId" : "ChIJ0Xnt0mQRLxgRtxM3dGiUvgc",
+        "locationConfidence" : 4.862336
+      }, {
+        "latitudeE7" : -12991266,
+        "longitudeE7" : 367848341,
+        "placeId" : "ChIJw5r2iJ4QLxgR79ju8kwAiqA",
+        "locationConfidence" : 4.814631
+      }, {
+        "latitudeE7" : -13221530,
+        "longitudeE7" : 367736890,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 4.607176
+      }, {
+        "latitudeE7" : -12999970,
+        "longitudeE7" : 367875052,
+        "placeId" : "ChIJof0B-ZsQLxgRez-kRbT09hI",
+        "locationConfidence" : 3.2781436
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 25.149744
+      },
+      "duration" : {
+        "startTimestampMs" : "1606473495969",
+        "endTimestampMs" : "1606473900222"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -13226400,
+      "centerLngE7" : 367718650,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 16.943737
+      }, {
+        "latitudeE7" : -13221530,
+        "longitudeE7" : 367736890,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 3.514332
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 2.4740264
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 2.1103854
+      }, {
+        "latitudeE7" : -13148253,
+        "longitudeE7" : 367412408,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.1342813
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 0.71758455
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.45130917
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13226440,
+        "longitudeE7" : 367718696,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12340529,
+        "longitudeE7" : 368731015,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606473900222",
+        "endTimestampMs" : "1606481428999"
+      },
+      "distance" : 13060,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 72.05437421798706
+      }, {
+        "activityType" : "STILL",
+        "probability" : 11.94973737001419
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 7.804518938064575
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.369087308645248
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.1744052171707153
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0722948238253593
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.21247798576951027
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.16894140280783176
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.11130663333460689
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02648957015480846
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.022310060739982873
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.016516787582077086
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.013741363363806158
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.002977141411975026
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.188920219254214E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13226143,
+          "lngE7" : 367718658
+        }, {
+          "latE7" : -12867976,
+          "lngE7" : 368173446
+        }, {
+          "latE7" : -12340495,
+          "lngE7" : 368731040
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1606481428999",
+        "location" : {
+          "latitudeE7" : -12340529,
+          "longitudeE7" : 368731015,
+          "accuracyMetres" : 160,
+          "sourceInfo" : {
+            "deviceTag" : -1233292086
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12327905,
+        "longitudeE7" : 368738402,
+        "placeId" : "ChIJ7yRpPa8VLxgR-hoCJm5m_PQ",
+        "address" : "Clay City\nMountain Mall\nThika Rd\nNairobi\nKenya",
+        "name" : "Mountain Mall",
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        },
+        "locationConfidence" : 35.812126
+      },
+      "duration" : {
+        "startTimestampMs" : "1606481428999",
+        "endTimestampMs" : "1606481573999"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -12329174,
+      "centerLngE7" : 368737660,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12326904,
+        "longitudeE7" : 368736154,
+        "placeId" : "ChIJl4so_d0VLxgRvnP-qXGcn28",
+        "locationConfidence" : 27.952194
+      }, {
+        "latitudeE7" : -12346205,
+        "longitudeE7" : 368739664,
+        "placeId" : "ChIJLfZqut4VLxgRekTnNASIdm4",
+        "locationConfidence" : 12.001408
+      }, {
+        "latitudeE7" : -12329942,
+        "longitudeE7" : 368740834,
+        "placeId" : "ChIJmQ60590VLxgRPlo1qvj30jQ",
+        "locationConfidence" : 6.2001433
+      }, {
+        "latitudeE7" : -12338475,
+        "longitudeE7" : 368731504,
+        "placeId" : "ChIJnfcO16UVLxgRXVdPGqErZi4",
+        "locationConfidence" : 3.8451705
+      }, {
+        "latitudeE7" : -12327645,
+        "longitudeE7" : 368737321,
+        "placeId" : "ChIJ_alG490VLxgR9hiCvOGfv-I",
+        "locationConfidence" : 3.3177388
+      }, {
+        "latitudeE7" : -12335096,
+        "longitudeE7" : 368726891,
+        "placeId" : "ChIJHavjRiIVLxgRO3lt7zsvCPo",
+        "locationConfidence" : 2.3620899
+      }, {
+        "latitudeE7" : -12328110,
+        "longitudeE7" : 368737810,
+        "placeId" : "ChIJX4sx5d0VLxgRnONtL2WN780",
+        "locationConfidence" : 1.6825957
+      }, {
+        "latitudeE7" : -12328778,
+        "longitudeE7" : 368737198,
+        "placeId" : "ChIJy5AJ_N0VLxgR_WjGm1lVoZc",
+        "locationConfidence" : 1.4783916
+      }, {
+        "latitudeE7" : -12342172,
+        "longitudeE7" : 368712094,
+        "placeId" : "ChIJt9-NWN4VLxgRE9De3Yc3qF4",
+        "locationConfidence" : 1.4415437
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13133597,
+        "longitudeE7" : 368277597,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13115680,
+        "longitudeE7" : 368353021,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606719326999",
+        "endTimestampMs" : "1606719604999"
+      },
+      "distance" : 1078,
+      "activityType" : "IN_BUS",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_BUS",
+        "probability" : 49.4242787361145
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 32.93854296207428
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.375227153301239
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.325105108320713
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.9811324067413807
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.3604327095672488
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.16891296254470944
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.16785968327894807
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.15865220921114087
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04766347410622984
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.027515061083249748
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.018911687948275357
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004487778278416954
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.875787559896708E-4
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 4.8440870159538463E-4
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : -13133597,
+          "longitudeE7" : 368277597,
+          "placeId" : "ChIJeyGYoKsRLxgRoJDp1Lo7kp4",
+          "name" : "South B Shopping Centre"
+        }, {
+          "latitudeE7" : -13115573,
+          "longitudeE7" : 368338323,
+          "placeId" : "ChIJBzbCR6gRLxgRVaZG7vLBW9Q",
+          "name" : "Our Lady of Mercy"
+        }, {
+          "latitudeE7" : -13115680,
+          "longitudeE7" : 368353021,
+          "placeId" : "ChIJk8YDc6gRLxgRfFIiyA6np2g",
+          "name" : "South B Stage"
+        } ],
+        "name" : "33SB",
+        "hexRgbColor" : "000000"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -13111205,
+          "lngE7" : 368310055,
+          "timestampMs" : "1606719341999",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : -13115723,
+          "lngE7" : 368352993,
+          "timestampMs" : "1606719444999",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : -13117116,
+          "lngE7" : 368364456,
+          "timestampMs" : "1606719589999",
+          "accuracyMeters" : 4
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13122026,
+        "longitudeE7" : 368376746,
+        "placeId" : "ChIJt1q2s6cRLxgRnquhOSxSC0A",
+        "address" : "Kapiti Crescent\nNairobi\nKenya",
+        "name" : "South B Hospital",
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        },
+        "locationConfidence" : 95.40989
+      },
+      "duration" : {
+        "startTimestampMs" : "1606719604999",
+        "endTimestampMs" : "1606720801710"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13119317,
+      "centerLngE7" : 368380583,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13124487,
+        "longitudeE7" : 368385446,
+        "placeId" : "ChIJfVnb_KYRLxgRhGsRNs-fJkw",
+        "locationConfidence" : 1.1403677
+      }, {
+        "latitudeE7" : -13113750,
+        "longitudeE7" : 368370620,
+        "placeId" : "ChIJTdSCK7kRLxgRGBU4sABQKk4",
+        "locationConfidence" : 0.39523757
+      }, {
+        "latitudeE7" : -13116797,
+        "longitudeE7" : 368376105,
+        "placeId" : "ChIJOU-xdY4RLxgRKfRZmVxBE8U",
+        "locationConfidence" : 0.12690845
+      }, {
+        "latitudeE7" : -13117145,
+        "longitudeE7" : 368378155,
+        "placeId" : "ChIJz4j-elMRLxgRZhYzhm6q9-A",
+        "locationConfidence" : 0.12379931
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13120203,
+        "longitudeE7" : 368383155,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13124338,
+        "longitudeE7" : 368168281,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606720801710",
+        "endTimestampMs" : "1606722024438"
+      },
+      "distance" : 2503,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.14834940433502
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 33.682069182395935
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.476133704185486
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 5.787989497184753
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.4250865206122398
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.9054021909832954
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2391329500824213
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.12854469241574407
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.09544978966005147
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.08657675352878869
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.015010613424237818
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.008937828533817083
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 9.164157745544799E-4
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 2.2548586002812954E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.7208279814440175E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13120206,
+          "lngE7" : 368382835
+        }, {
+          "latE7" : -13073472,
+          "lngE7" : 368275299
+        }, {
+          "latE7" : -13122644,
+          "lngE7" : 368165893
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1606722024438",
+        "location" : {
+          "latitudeE7" : -13124338,
+          "longitudeE7" : 368168281,
+          "accuracyMetres" : 160,
+          "sourceInfo" : {
+            "deviceTag" : -1233292086
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13124537,
+        "longitudeE7" : 368166906,
+        "placeId" : "ChIJ50JZOtgRLxgRtH0-a0zCjCc",
+        "address" : "Langata Rd\nTMALL\nKenya",
+        "name" : "Animet Ltd-Tmall",
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        },
+        "locationConfidence" : 67.42211
+      },
+      "duration" : {
+        "startTimestampMs" : "1606722024438",
+        "endTimestampMs" : "1606722510393"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -13122630,
+          "longitudeE7" : 368169960,
+          "placeId" : "ChIJoX8nyFYQLxgRY_fGxrNvUrQ",
+          "address" : "Langata Rd\nTMALL\nKenya",
+          "name" : "T-Mall",
+          "sourceInfo" : {
+            "deviceTag" : -1233292086
+          },
+          "locationConfidence" : 34.863136
+        },
+        "duration" : {
+          "startTimestampMs" : "1606722024438",
+          "endTimestampMs" : "1606722267415"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -13123200,
+        "centerLngE7" : 368167340,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -13121230,
+          "longitudeE7" : 368167820,
+          "placeId" : "ChIJxS2os1cQLxgRy8kx3EFYIPg",
+          "locationConfidence" : 10.876551
+        }, {
+          "latitudeE7" : -13129574,
+          "longitudeE7" : 368166929,
+          "placeId" : "ChIJWa5aAVcQLxgRWg9w34Ze1HI",
+          "locationConfidence" : 9.69119
+        }, {
+          "latitudeE7" : -13126041,
+          "longitudeE7" : 368167627,
+          "placeId" : "ChIJedjqAFcQLxgRX6KAWeO6zbk",
+          "locationConfidence" : 3.4254503
+        }, {
+          "latitudeE7" : -13131371,
+          "longitudeE7" : 368170940,
+          "placeId" : "ChIJN4Uc_FYQLxgRosUJN193o40",
+          "locationConfidence" : 0.20456779
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : -13123019,
+          "longitudeE7" : 368167238,
+          "placeId" : "ChIJRflTslcQLxgR5UBe0cx6b-M",
+          "address" : "Langata Rd\nNairobi\nKenya",
+          "name" : "Tuskys Supermarket (T Mall)",
+          "sourceInfo" : {
+            "deviceTag" : -1233292086
+          },
+          "locationConfidence" : 34.863136
+        },
+        "duration" : {
+          "startTimestampMs" : "1606722267415",
+          "endTimestampMs" : "1606722510393"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -13123200,
+        "centerLngE7" : 368167340,
+        "visitConfidence" : 95,
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -13123200,
+      "centerLngE7" : 368167340,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13129574,
+        "longitudeE7" : 368166929,
+        "placeId" : "ChIJWa5aAVcQLxgRWg9w34Ze1HI",
+        "locationConfidence" : 5.647161
+      }, {
+        "latitudeE7" : -13121230,
+        "longitudeE7" : 368167820,
+        "placeId" : "ChIJxS2os1cQLxgRy8kx3EFYIPg",
+        "locationConfidence" : 4.3796268
+      }, {
+        "latitudeE7" : -13131371,
+        "longitudeE7" : 368170940,
+        "placeId" : "ChIJN4Uc_FYQLxgRosUJN193o40",
+        "locationConfidence" : 0.40250605
+      }, {
+        "latitudeE7" : -13112569,
+        "longitudeE7" : 368168163,
+        "placeId" : "ChIJy1WO0lcQLxgRzNAguwt3nLQ",
+        "locationConfidence" : 0.31737477
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13123283,
+        "longitudeE7" : 368159945,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13237156,
+        "longitudeE7" : 367796759,
+        "sourceInfo" : {
+          "deviceTag" : -1233292086
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606722510393",
+        "endTimestampMs" : "1606724653801"
+      },
+      "distance" : 4363,
+      "activityType" : "IN_BUS",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_BUS",
+        "probability" : 41.274985671043396
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 35.48438251018524
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 15.580889582633972
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.822349548339844
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.9973089918494225
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.4399028606712818
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.13120309449732304
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.11292522540315986
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07032596040517092
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.05077365203760564
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.020344163931440562
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.010710684000514448
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0028577625926118344
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.82749350744416E-4
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 3.542655576893594E-4
+      } ]
+    }
+  } ]
+}

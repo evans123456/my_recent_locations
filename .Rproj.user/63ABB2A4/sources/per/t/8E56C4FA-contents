@@ -1,0 +1,93 @@
+#install.packages('ggplot2')
+library(ggplot2)
+#install.packages('psych') #for using describe
+library(psych)
+#install.packages('Amelia') #for using missmap
+library(Amelia)
+#install.packages('caret') # for using varImp
+library(caret)
+
+data<- read.csv("./churn.csv")
+
+data <- subset( data, select = -customerID )
+#view the data
+describe(data)
+
+#Setting outcome variables as categorical
+data$gender <- factor(data$gender, levels = c("Male","Female"), labels = c(1, 0))
+data$Partner <- factor(data$Partner, levels= c("Yes","No"), labels = c(1,0))
+data$Dependents <- factor(data$Dependents, levels= c("Yes","No"), labels = c(1,0))
+data$PhoneService <- factor(data$PhoneService, levels= c("Yes","No"), labels = c(1,0))
+data$PaperlessBilling <- factor(data$PaperlessBilling, levels= c("Yes","No"), labels = c(1,0))
+data$MultipleLines <- factor(data$MultipleLines, levels= c("Yes","No","No phone service"), labels = c(1,0,0))
+data$OnlineSecurity <- factor(data$OnlineSecurity, levels= c("Yes","No","No internet service"), labels = c(1,0,0))
+data$OnlineBackup <- factor(data$OnlineBackup, levels= c("Yes","No","No internet service"), labels = c(1,0,0))
+data$DeviceProtection <- factor(data$DeviceProtection, levels= c("Yes","No","No internet service"), labels = c(1,0,0))
+data$TechSupport <- factor(data$TechSupport, levels= c("Yes","No","No internet service"), labels = c(1,0,0))
+data$StreamingTV <- factor(data$StreamingTV, levels= c("Yes","No","No internet service"), labels = c(1,0,0))
+data$StreamingMovies <- factor(data$StreamingMovies, levels= c("Yes","No","No internet service"), labels = c(1,0,0))
+data$Churn <- factor(data$Churn, levels= c("Yes","No"), labels = c(1,0))
+
+#visualize missing data
+missmap(data)
+
+table(is.na(data))
+data <- na.omit(data)
+
+#visualize missing data
+missmap(data)
+
+#Data Visualization
+#Visual 1
+ggplot(data, aes(MonthlyCharges, colour = Churn)) +geom_freqpoly(binwidth = 1) + labs(title="Churn Rates based on Monthly Charges")
+
+#Visual 2
+ggplot(data, aes(TotalCharges, colour = Churn)) +geom_freqpoly(binwidth = 1) + labs(title="Churn Rates based on Total Charges")
+
+#visual 3
+ggplot(data) + geom_bar(aes(x = PhoneService))  + labs(title="Phone service")
+
+#visual 4
+ggplot(data) + geom_bar(aes(x = InternetService))  + labs(title="Internet Service Ratio")
+
+
+
+#final visuals
+ggpairs(data)
+
+#Building a model
+#split data into training and test data sets
+indxTrain <- createDataPartition(y = data$Churn,p = 0.75,list = FALSE)
+training <- data[indxTrain,]
+testing <- data[-indxTrain,] 
+
+#Check dimensions of the split > prop.table(table(data$Outcome)) * 100
+
+#checking training and testing ratios
+prop.table(table(training$Churn)) * 100
+prop.table(table(testing$Churn)) * 100
+
+#create objects x which holds the predictor variables and y which holds the response variables
+myvars <- c("gender", "SeniorCitizen", "Partner","Dependents","tenure","PhoneService","MultipleLines","InternetService","OnlineSecurity","OnlineBackup","DeviceProtection","TechSupport","StreamingTV","StreamingMovies","Contract","PaperlessBilling","PaymentMethod","MonthlyCharges","TotalCharges")
+x <- training[myvars]
+y = training$Churn
+
+
+
+install.packages('e1071')
+library(e1071)
+
+model = train(x,y,'nb',trControl=trainControl(method='cv',number=10))
+
+
+#Model Evaluation
+#Predict testing set
+Predict <- predict(model,newdata = testing ) 
+
+#Get the confusion matrix to see accuracy value and other parameter values > 
+confusionMatrix(Predict, testing$Churn )
+
+
+#Plot Variable performance
+X <- varImp(model)
+plot(X)

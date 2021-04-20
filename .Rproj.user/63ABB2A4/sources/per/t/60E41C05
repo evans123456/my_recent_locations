@@ -1,0 +1,28 @@
+{
+    "id": "60E41C05",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1617148052407.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "id": "77e3944cb71b47f99e0f6bd8f83a76af",
+        "name": "semantic.history",
+        "title": "semantic.history",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94189200350936,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1617148052407,
+    "read_only": false,
+    "read_only_alternatives": []
+}

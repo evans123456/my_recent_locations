@@ -1,0 +1,3405 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 33.903877
+      },
+      "duration" : {
+        "startTimestampMs" : "1561960349213",
+        "endTimestampMs" : "1561966997613"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12948950,
+      "centerLngE7" : 368054150,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 19.340727
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRLiUAOG2v6RA",
+        "locationConfidence" : 3.5925322
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 3.3017282
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 1.6747572
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 1.4618735
+      }, {
+        "latitudeE7" : -12948871,
+        "longitudeE7" : 368054813,
+        "placeId" : "ChIJ3arzOsAQLxgRGchqpyPh-Y0",
+        "locationConfidence" : 1.3393397
+      }, {
+        "latitudeE7" : -12948951,
+        "longitudeE7" : 368054572,
+        "placeId" : "ChIJk7hpJcAQLxgRC13Q8iQeV4E",
+        "locationConfidence" : 1.1544139
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJ9ScVOsAQLxgR5LwCE9Lkh6Q",
+        "locationConfidence" : 1.0281861
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.0106552
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 40.528843
+      },
+      "duration" : {
+        "startTimestampMs" : "1562055409870",
+        "endTimestampMs" : "1562076795004"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12950144,
+      "centerLngE7" : 368054433,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947880,
+        "longitudeE7" : 368067260,
+        "placeId" : "ChIJoWAaz8EQLxgRWAvPEYvAG1o",
+        "locationConfidence" : 19.253191
+      }, {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 12.47578
+      }, {
+        "latitudeE7" : -12948951,
+        "longitudeE7" : 368054572,
+        "placeId" : "ChIJk7hpJcAQLxgRC13Q8iQeV4E",
+        "locationConfidence" : 2.0476427
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 1.8474108
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 1.6171957
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.1953162
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.6967582
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 0.6728806
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJMbbpOsAQLxgRPQFdoTqgdT8",
+        "locationConfidence" : 0.60328907
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "address" : "Lee Funeral Home\nP. O. Box 15000 Argwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Lee Funeral Home",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 22.31004
+      },
+      "duration" : {
+        "startTimestampMs" : "1562134486819",
+        "endTimestampMs" : "1562136795149"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -12952675,
+      "centerLngE7" : 368055000,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJv_F7OsAQLxgRYu2TYZZeQRw",
+        "locationConfidence" : 13.5525675
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRLiUAOG2v6RA",
+        "locationConfidence" : 6.6000886
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 6.431969
+      }, {
+        "latitudeE7" : -12971501,
+        "longitudeE7" : 368051180,
+        "placeId" : "ChIJjVdduOoQLxgRcSQ8aYha5g4",
+        "locationConfidence" : 5.969821
+      }, {
+        "latitudeE7" : -12948871,
+        "longitudeE7" : 368054813,
+        "placeId" : "ChIJ3arzOsAQLxgRGchqpyPh-Y0",
+        "locationConfidence" : 2.7643826
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 0.828979
+      }, {
+        "latitudeE7" : -12947580,
+        "longitudeE7" : 368066068,
+        "placeId" : "ChIJVZQqz8EQLxgRoZeU6jx4jWQ",
+        "locationConfidence" : 0.72411984
+      }, {
+        "latitudeE7" : -12949675,
+        "longitudeE7" : 368048966,
+        "placeId" : "ChIJOWY5OsAQLxgRUB-pHWADUsI",
+        "locationConfidence" : 0.6035343
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.5726218
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 39.39642
+      },
+      "duration" : {
+        "startTimestampMs" : "1562313796491",
+        "endTimestampMs" : "1562326006188"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12948433,
+      "centerLngE7" : 368053667,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 21.198383
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRLiUAOG2v6RA",
+        "locationConfidence" : 5.4165688
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJRV5OqoARLxgRdW8JvlY5gQ4",
+        "locationConfidence" : 1.9379988
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 1.8211284
+      }, {
+        "latitudeE7" : -12948871,
+        "longitudeE7" : 368054813,
+        "placeId" : "ChIJ3arzOsAQLxgRGchqpyPh-Y0",
+        "locationConfidence" : 1.1310332
+      }, {
+        "latitudeE7" : -12947750,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJIyOPP8AQLxgRapSH8pF-BVc",
+        "locationConfidence" : 1.0400383
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 0.8476708
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 0.6778718
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.5622625
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867
+      },
+      "endLocation" : {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581
+      },
+      "duration" : {
+        "startTimestampMs" : "1562326006188",
+        "endTimestampMs" : "1562329395289"
+      },
+      "distance" : 17,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 52.453399127046985
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 33.17224324341786
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 7.66025686383016
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12951346,
+          "lngE7" : 368054962
+        }, {
+          "latE7" : -12951351,
+          "lngE7" : 368054809
+        }, {
+          "latE7" : -12951356,
+          "lngE7" : 368054695
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -12948205,
+          "lngE7" : 368054735,
+          "timestampMs" : "1562326617386",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "address" : "Lee Funeral Home\nP. O. Box 15000 Argwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Lee Funeral Home",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 28.72656
+      },
+      "duration" : {
+        "startTimestampMs" : "1562329395289",
+        "endTimestampMs" : "1562333402584"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12952000,
+      "centerLngE7" : 368052120,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJv_F7OsAQLxgRYu2TYZZeQRw",
+        "locationConfidence" : 15.21786
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRLiUAOG2v6RA",
+        "locationConfidence" : 9.79256
+      }, {
+        "latitudeE7" : -12971501,
+        "longitudeE7" : 368051180,
+        "placeId" : "ChIJjVdduOoQLxgRcSQ8aYha5g4",
+        "locationConfidence" : 6.3353953
+      }, {
+        "latitudeE7" : -13013010,
+        "longitudeE7" : 368069899,
+        "placeId" : "ChIJLwCPTuwQLxgRAUdND1TKttY",
+        "locationConfidence" : 2.6942859
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.8808635
+      }, {
+        "latitudeE7" : -12949675,
+        "longitudeE7" : 368048966,
+        "placeId" : "ChIJOWY5OsAQLxgRUB-pHWADUsI",
+        "locationConfidence" : 1.509359
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.5967829
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 0.52161705
+      }, {
+        "latitudeE7" : -12947880,
+        "longitudeE7" : 368067260,
+        "placeId" : "ChIJoWAaz8EQLxgRWAvPEYvAG1o",
+        "locationConfidence" : 0.5140875
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 43.562737
+      },
+      "duration" : {
+        "startTimestampMs" : "1562564251671",
+        "endTimestampMs" : "1562653597640"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12947343,
+      "centerLngE7" : 368055671,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 20.491278
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 3.892134
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.7543107
+      }, {
+        "latitudeE7" : -12947794,
+        "longitudeE7" : 368065898,
+        "placeId" : "ChIJVTLmzsEQLxgRBbYXezxacrk",
+        "locationConfidence" : 1.3661025
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 1.1772956
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.8615884
+      }, {
+        "latitudeE7" : -12946121,
+        "longitudeE7" : 368054289,
+        "placeId" : "ChIJR4TKOcAQLxgRySkY_5PLASQ",
+        "locationConfidence" : 0.8167537
+      }, {
+        "latitudeE7" : -12947802,
+        "longitudeE7" : 368055234,
+        "placeId" : "ChIJZ66hMMAQLxgREHQ5dpit1DM",
+        "locationConfidence" : 0.5627179
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJ9ScVOsAQLxgR5LwCE9Lkh6Q",
+        "locationConfidence" : 0.45153713
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867
+      },
+      "endLocation" : {
+        "latitudeE7" : -12947880,
+        "longitudeE7" : 368067260
+      },
+      "duration" : {
+        "startTimestampMs" : "1562653597640",
+        "endTimestampMs" : "1562655796024"
+      },
+      "distance" : 147,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 58.21519005009223
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.582964614178564
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 8.27569981857292
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12951346,
+          "lngE7" : 368054962
+        }, {
+          "latE7" : -12951151,
+          "lngE7" : 368059997
+        }, {
+          "latE7" : -12950198,
+          "lngE7" : 368064613
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -12947826,
+          "lngE7" : 368054595,
+          "timestampMs" : "1562653597640",
+          "accuracyMeters" : 15
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 53.75146
+      },
+      "duration" : {
+        "startTimestampMs" : "1562655796024",
+        "endTimestampMs" : "1562916796100"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12949734,
+      "centerLngE7" : 368054782,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947962,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 9.876229
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJRV5OqoARLxgRdW8JvlY5gQ4",
+        "locationConfidence" : 2.1522584
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 1.3709967
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRLiUAOG2v6RA",
+        "locationConfidence" : 1.3450302
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.1418284
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 1.0468717
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.8479885
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 0.83450824
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJ9ScVOsAQLxgR5LwCE9Lkh6Q",
+        "locationConfidence" : 0.541093
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJnTxGXe0RLxgRLyTeEiJs7Zc",
+        "address" : "Landmark Plaza\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "Dimension Data-Nairobi Head Office",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 39.161728
+      },
+      "duration" : {
+        "startTimestampMs" : "1563435148785",
+        "endTimestampMs" : "1563543587361"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12949571,
+      "centerLngE7" : 368054679,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947998,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 20.206417
+      }, {
+        "latitudeE7" : -12948951,
+        "longitudeE7" : 368054572,
+        "placeId" : "ChIJk7hpJcAQLxgRC13Q8iQeV4E",
+        "locationConfidence" : 4.086461
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 2.0272608
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.8679355
+      }, {
+        "latitudeE7" : -12971501,
+        "longitudeE7" : 368051180,
+        "placeId" : "ChIJjVdduOoQLxgRcSQ8aYha5g4",
+        "locationConfidence" : 1.5215139
+      }, {
+        "latitudeE7" : -12948710,
+        "longitudeE7" : 368054679,
+        "placeId" : "ChIJcSdDJcAQLxgRISBqikhcc80",
+        "locationConfidence" : 0.9129792
+      }, {
+        "latitudeE7" : -12946360,
+        "longitudeE7" : 368055460,
+        "placeId" : "ChIJgzplN8AQLxgRC__txLO7-RY",
+        "locationConfidence" : 0.85218513
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.673959
+      }, {
+        "latitudeE7" : -12953160,
+        "longitudeE7" : 368061440,
+        "placeId" : "ChIJYfO008EQLxgRKI2N__LOqMI",
+        "locationConfidence" : 0.53871983
+      }, {
+        "latitudeE7" : -12947880,
+        "longitudeE7" : 368067260,
+        "placeId" : "ChIJoWAaz8EQLxgRWAvPEYvAG1o",
+        "locationConfidence" : 16.277037
+      }, {
+        "latitudeE7" : -12949675,
+        "longitudeE7" : 368048966,
+        "placeId" : "ChIJOWY5OsAQLxgRUB-pHWADUsI",
+        "locationConfidence" : 1.133018
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJMbbpOsAQLxgRPQFdoTqgdT8",
+        "locationConfidence" : 0.46123743
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12947880,
+        "longitudeE7" : 368067260,
+        "placeId" : "ChIJoWAaz8EQLxgRWAvPEYvAG1o",
+        "address" : "Ralph Bunche Road\n3rd Floor, Upper Hill Medical Center\nP O 12604\nNairobi\nKenya",
+        "name" : "Dr. Patrick Amoth",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 36.289642
+      },
+      "duration" : {
+        "startTimestampMs" : "1563948155401",
+        "endTimestampMs" : "1563955928695"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12951075,
+      "centerLngE7" : 368055475,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947998,
+        "longitudeE7" : 368054581,
+        "placeId" : "ChIJizs9HsAQLxgRCpdPI4lDv2s",
+        "name" : "Lee Funeral Home",
+        "locationConfidence" : 18.744453
+      }, {
+        "latitudeE7" : -12948308,
+        "longitudeE7" : 368054867,
+        "placeId" : "ChIJv_F7OsAQLxgRYu2TYZZeQRw",
+        "locationConfidence" : 9.229073
+      }, {
+        "latitudeE7" : -12971501,
+        "longitudeE7" : 368051180,
+        "placeId" : "ChIJjVdduOoQLxgRcSQ8aYha5g4",
+        "locationConfidence" : 2.8628693
+      }, {
+        "latitudeE7" : -12948871,
+        "longitudeE7" : 368054813,
+        "placeId" : "ChIJ3arzOsAQLxgRGchqpyPh-Y0",
+        "locationConfidence" : 2.05061
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJOWY5OsAQLxgRiPzs0ROFTng",
+        "locationConfidence" : 1.4769322
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJA6fWIsAQLxgRmpJRzF0auW8",
+        "locationConfidence" : 1.3528057
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJQbK-7KMQLxgRjXEyxsIrRCA",
+        "locationConfidence" : 1.0594016
+      }, {
+        "latitudeE7" : -12947749,
+        "longitudeE7" : 368054000,
+        "placeId" : "ChIJMbbpOsAQLxgRPQFdoTqgdT8",
+        "locationConfidence" : 0.48521787
+      }, {
+        "latitudeE7" : -12947427,
+        "longitudeE7" : 368054061,
+        "placeId" : "ChIJM9E2OsAQLxgRMxFuxezySOI",
+        "locationConfidence" : 0.4840843
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12947178,
+        "longitudeE7" : 368055208,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1563955928695",
+        "endTimestampMs" : "1563963686382"
+      },
+      "distance" : 4853,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 71.78789592820813
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 14.831928889164272
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.969530965708273
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12951338,
+          "lngE7" : 368055305
+        }, {
+          "latE7" : -13274333,
+          "lngE7" : 367914619
+        }, {
+          "latE7" : -13226066,
+          "lngE7" : 367719192
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1563963806544",
+        "location" : {
+          "latitudeE7" : -13225732,
+          "longitudeE7" : 367719211,
+          "accuracyMetres" : 76
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 82.40559
+      },
+      "duration" : {
+        "startTimestampMs" : "1563963686382",
+        "endTimestampMs" : "1564163697210"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13227427,
+      "centerLngE7" : 367719025,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 11.285754
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 3.3586755
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 0.6060932
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 0.6002396
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.5208639
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12854812,
+        "longitudeE7" : 368230142,
+        "placeId" : "ChIJ50FpsNcQLxgRw_43CcbWaK4",
+        "address" : "Nairobi\nKenya",
+        "name" : "Jubilee Insurance Exchange",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 12.948786
+      },
+      "duration" : {
+        "startTimestampMs" : "1564205353075",
+        "endTimestampMs" : "1564206796068"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -12852180,
+          "longitudeE7" : 368229970,
+          "placeId" : "ChIJ_SsBUtYQLxgR7Qe3XbTQGAA",
+          "address" : "Jubilee Insurance Exchange\nNairobi\nKenya",
+          "name" : "Chiropractic Spinal Health Care",
+          "sourceInfo" : {
+            "deviceTag" : 518402995
+          },
+          "locationConfidence" : 1.4482759
+        },
+        "duration" : {
+          "startTimestampMs" : "1564205353075",
+          "endTimestampMs" : "1564206796068"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -12860500,
+        "centerLngE7" : 368230050,
+        "visitConfidence" : 83,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -12854900,
+          "longitudeE7" : 368227983,
+          "placeId" : "ChIJMc3ErNcQLxgRBVCmUVqEcM4",
+          "locationConfidence" : 0.62012774
+        }, {
+          "latitudeE7" : -12857482,
+          "longitudeE7" : 368230612,
+          "placeId" : "ChIJN0e-sdcQLxgRNmzL60Uq3Lw",
+          "locationConfidence" : 0.31095704
+        }, {
+          "latitudeE7" : -12861366,
+          "longitudeE7" : 368225982,
+          "placeId" : "ChIJq6qqavgQLxgRuwSCUhz55oM",
+          "locationConfidence" : 0.28815392
+        }, {
+          "latitudeE7" : -12863287,
+          "longitudeE7" : 368227148,
+          "placeId" : "ChIJeWxtoAgRLxgRDHNAsinTDaE",
+          "locationConfidence" : 0.22901095
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -12860500,
+      "centerLngE7" : 368230050,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12857482,
+        "longitudeE7" : 368230612,
+        "placeId" : "ChIJN0e-sdcQLxgRNmzL60Uq3Lw",
+        "locationConfidence" : 2.7802134
+      }, {
+        "latitudeE7" : -12861366,
+        "longitudeE7" : 368225982,
+        "placeId" : "ChIJq6qqavgQLxgRuwSCUhz55oM",
+        "locationConfidence" : 2.5763345
+      }, {
+        "latitudeE7" : -12863287,
+        "longitudeE7" : 368227148,
+        "placeId" : "ChIJeWxtoAgRLxgRDHNAsinTDaE",
+        "locationConfidence" : 2.0475476
+      }, {
+        "latitudeE7" : -12858104,
+        "longitudeE7" : 368230440,
+        "placeId" : "ChIJnTMtsNcQLxgR0Pes1aigld0",
+        "locationConfidence" : 1.9661006
+      }, {
+        "latitudeE7" : -12853190,
+        "longitudeE7" : 368222082,
+        "placeId" : "ChIJt4tA-NYQLxgRF8sablUa1SI",
+        "locationConfidence" : 0.9207244
+      }, {
+        "latitudeE7" : -12865100,
+        "longitudeE7" : 368228905,
+        "placeId" : "ChIJecpdmNcQLxgRHWHwZ_jcEFI",
+        "locationConfidence" : 0.8757797
+      }, {
+        "latitudeE7" : -12872240,
+        "longitudeE7" : 368229700,
+        "placeId" : "ChIJ2aQkhtcQLxgRXJmc_BX-kE4",
+        "locationConfidence" : 0.86554015
+      }, {
+        "latitudeE7" : -12857844,
+        "longitudeE7" : 368228405,
+        "placeId" : "ChIJA7RbrtcQLxgRpjJLYYk_GlU",
+        "locationConfidence" : 0.6210712
+      }, {
+        "latitudeE7" : -12862023,
+        "longitudeE7" : 368227417,
+        "placeId" : "ChIJXX5zh3ERLxgRvSYbELwFjL0",
+        "locationConfidence" : 0.59768254
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12854812,
+        "longitudeE7" : 368230142,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12577531,
+        "longitudeE7" : 367823392,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564206796068",
+        "endTimestampMs" : "1564215256242"
+      },
+      "distance" : 14319,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 54.64145246244638
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 38.23974941604044
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.263993918451174
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12856706,
+          "lngE7" : 368231086
+        }, {
+          "latE7" : -12594130,
+          "lngE7" : 367758674
+        }, {
+          "latE7" : -12576673,
+          "lngE7" : 367818565
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564215285738",
+        "location" : {
+          "latitudeE7" : -13225589,
+          "longitudeE7" : 367718986,
+          "accuracyMetres" : 75
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12577531,
+        "longitudeE7" : 367823392,
+        "placeId" : "ChIJAdShlWIXLxgRIqN72NQPot0",
+        "address" : "Waiyaki Way,Parklands/Highridge\nNairobi\nKenya",
+        "name" : "The Aga khan high school-nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 23.163845
+      },
+      "duration" : {
+        "startTimestampMs" : "1564215256242",
+        "endTimestampMs" : "1564223399077"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -12568900,
+      "centerLngE7" : 367819286,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12557470,
+        "longitudeE7" : 367816523,
+        "placeId" : "ChIJxfo_59cZLxgR75cGPvg-11s",
+        "locationConfidence" : 16.03376
+      }, {
+        "latitudeE7" : -12563533,
+        "longitudeE7" : 367789435,
+        "placeId" : "ChIJQfqxdtcZLxgRzMnl5CeNBis",
+        "locationConfidence" : 11.994119
+      }, {
+        "latitudeE7" : -12555793,
+        "longitudeE7" : 367824810,
+        "placeId" : "ChIJqw0kZX0XLxgRkqosoaVMEGc",
+        "locationConfidence" : 5.850063
+      }, {
+        "latitudeE7" : -12584360,
+        "longitudeE7" : 367806210,
+        "placeId" : "ChIJgxQcaNgZLxgRjwArUTJk9ZQ",
+        "locationConfidence" : 5.3354826
+      }, {
+        "latitudeE7" : -12554271,
+        "longitudeE7" : 367810267,
+        "placeId" : "ChIJdZngztcZLxgRjyx0dvGyyDs",
+        "locationConfidence" : 5.183126
+      }, {
+        "latitudeE7" : -12556353,
+        "longitudeE7" : 367819651,
+        "placeId" : "ChIJz29yf30XLxgRJhWZP9s4oOk",
+        "locationConfidence" : 3.9524794
+      }, {
+        "latitudeE7" : -12585239,
+        "longitudeE7" : 367814596,
+        "placeId" : "ChIJM-yKlr8ZLxgRQViVVAmdyZU",
+        "locationConfidence" : 3.433834
+      }, {
+        "latitudeE7" : -12554271,
+        "longitudeE7" : 367810267,
+        "placeId" : "ChIJdZngztcZLxgRXy1FTylACdU",
+        "locationConfidence" : 3.2396274
+      }, {
+        "latitudeE7" : -12559765,
+        "longitudeE7" : 367829886,
+        "placeId" : "ChIJz4NS8fYXLxgRmXkZwBhGP7E",
+        "locationConfidence" : 1.7024243
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12577531,
+        "longitudeE7" : 367823392,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12856759,
+        "longitudeE7" : 368277688,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564223399077",
+        "endTimestampMs" : "1564229569385"
+      },
+      "distance" : 5928,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 33.82882126978058
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 30.540519440431364
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 23.434209443315012
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12576673,
+          "lngE7" : 367818565
+        }, {
+          "latE7" : -12713304,
+          "lngE7" : 368081512
+        }, {
+          "latE7" : -12857177,
+          "lngE7" : 368277931
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12856759,
+        "longitudeE7" : 368277688,
+        "placeId" : "ChIJp_FU_ygRLxgR88e73DbqQQs",
+        "address" : "Ronald Ngala St\nNairobi\nKenya",
+        "name" : "Naivas Supermarket",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 3.6248777
+      },
+      "duration" : {
+        "startTimestampMs" : "1564229569385",
+        "endTimestampMs" : "1564229896342"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -12860900,
+      "centerLngE7" : 368277150,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12856278,
+        "longitudeE7" : 368272957,
+        "placeId" : "ChIJ35lgUSgRLxgRNbkkuF1q0IA",
+        "locationConfidence" : 3.0353434
+      }, {
+        "latitudeE7" : -12857980,
+        "longitudeE7" : 368275880,
+        "placeId" : "ChIJfRWYVygRLxgRWQ7vnhjwOdg",
+        "locationConfidence" : 2.6822407
+      }, {
+        "latitudeE7" : -12854538,
+        "longitudeE7" : 368279936,
+        "placeId" : "ChIJExR1OikRLxgRAGjE625VnL0",
+        "locationConfidence" : 2.518714
+      }, {
+        "latitudeE7" : -12863233,
+        "longitudeE7" : 368279335,
+        "placeId" : "ChIJQbmp8ygRLxgRnPmXN5tJJ2Q",
+        "locationConfidence" : 2.0662491
+      }, {
+        "latitudeE7" : -12860608,
+        "longitudeE7" : 368276085,
+        "placeId" : "ChIJ1cnFWCgRLxgRhYk4yZZnMtQ",
+        "locationConfidence" : 1.1889036
+      }, {
+        "latitudeE7" : -12868270,
+        "longitudeE7" : 368274512,
+        "placeId" : "ChIJRTZLYygRLxgR2byMsLKrJr0",
+        "locationConfidence" : 0.79398936
+      }, {
+        "latitudeE7" : -12866206,
+        "longitudeE7" : 368274274,
+        "placeId" : "ChIJI8PvYygRLxgR6_bDQ8UWPBg",
+        "locationConfidence" : 0.74289876
+      }, {
+        "latitudeE7" : -12864966,
+        "longitudeE7" : 368272302,
+        "placeId" : "ChIJ-QEcaigRLxgReVPGD2NCjgI",
+        "locationConfidence" : 0.719597
+      }, {
+        "latitudeE7" : -12859010,
+        "longitudeE7" : 368276330,
+        "placeId" : "ChIJWwQ-WCgRLxgR75pJj60mx7Y",
+        "locationConfidence" : 0.6548027
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12856759,
+        "longitudeE7" : 368277688,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564229896342",
+        "endTimestampMs" : "1564240935956"
+      },
+      "distance" : 7449,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 32.405471760615484
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 31.893184849572297
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 20.037011533530805
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1564240999337",
+        "location" : {
+          "latitudeE7" : -13225640,
+          "longitudeE7" : 367723544,
+          "accuracyMetres" : 91
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 88.5053
+      },
+      "duration" : {
+        "startTimestampMs" : "1564240935956",
+        "endTimestampMs" : "1564268871633"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13226392,
+      "centerLngE7" : 367719029,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 6.4901433
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.3658135
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 0.9060889
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.74435854
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 0.67250997
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.57284904
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 88.23288
+      },
+      "duration" : {
+        "startTimestampMs" : "1564286308168",
+        "endTimestampMs" : "1564294600566"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13226111,
+      "centerLngE7" : 367719889,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 7.7710595
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 0.82579017
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 0.79239225
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.71157587
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.56402904
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13238688,
+        "longitudeE7" : 367794397,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564294600566",
+        "endTimestampMs" : "1564317773947"
+      },
+      "distance" : 860,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 66.43587957639106
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 22.18611717154591
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.739894862668648
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13226066,
+          "lngE7" : 367719192
+        }, {
+          "latE7" : -13233178,
+          "lngE7" : 367771415
+        }, {
+          "latE7" : -13238956,
+          "lngE7" : 367793235
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13238688,
+        "longitudeE7" : 367794397,
+        "placeId" : "ChIJMXYofZ4aLxgRLOusHLRI6B0",
+        "address" : "Sasumua Cres\nNairobi City\nKenya",
+        "name" : "Otiende Shopping Centre",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 64.70009
+      },
+      "duration" : {
+        "startTimestampMs" : "1564317773947",
+        "endTimestampMs" : "1564318740539"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13240867,
+      "centerLngE7" : 367801900,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13259658,
+        "longitudeE7" : 367779538,
+        "placeId" : "ChIJDXlwFZ8aLxgR-cv3pJGuj9w",
+        "locationConfidence" : 6.235982
+      }, {
+        "latitudeE7" : -13248235,
+        "longitudeE7" : 367800164,
+        "placeId" : "ChIJ3xjeTZ4aLxgRVesoq6XNYvE",
+        "locationConfidence" : 3.8938205
+      }, {
+        "latitudeE7" : -13236272,
+        "longitudeE7" : 367799842,
+        "placeId" : "ChIJMy9Hep4aLxgRweuprLhx5g8",
+        "locationConfidence" : 2.5132906
+      }, {
+        "latitudeE7" : -13238903,
+        "longitudeE7" : 367798126,
+        "placeId" : "ChIJw9poZp4aLxgRT-zW-ADwKTY",
+        "locationConfidence" : 2.299269
+      }, {
+        "latitudeE7" : -13234234,
+        "longitudeE7" : 367798233,
+        "placeId" : "ChIJMy9Hep4aLxgREFaYvKtqqd4",
+        "locationConfidence" : 1.5564045
+      }, {
+        "latitudeE7" : -13239094,
+        "longitudeE7" : 367796724,
+        "placeId" : "ChIJA-UWZ54aLxgRgix_ICZWpks",
+        "locationConfidence" : 1.0146195
+      }, {
+        "latitudeE7" : -13238990,
+        "longitudeE7" : 367798260,
+        "placeId" : "ChIJSSBqZp4aLxgRcVwfNic8y6o",
+        "locationConfidence" : 0.9570344
+      }, {
+        "latitudeE7" : -13233754,
+        "longitudeE7" : 367798072,
+        "placeId" : "ChIJpZIlep4aLxgRV6lMtGhHL2M",
+        "locationConfidence" : 0.90335655
+      }, {
+        "latitudeE7" : -13238685,
+        "longitudeE7" : 367795376,
+        "placeId" : "ChIJmaXFfZ4aLxgRTkN9YBGe9eI",
+        "locationConfidence" : 0.69951
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13238688,
+        "longitudeE7" : 367794397,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564318740539",
+        "endTimestampMs" : "1564319765269"
+      },
+      "distance" : 851,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 84.20376929194286
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.687547972906206
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.698485986788057
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13238956,
+          "lngE7" : 367793235
+        }, {
+          "latE7" : -13233178,
+          "lngE7" : 367771415
+        }, {
+          "latE7" : -13226066,
+          "lngE7" : 367719192
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        },
+        "locationConfidence" : 89.4873
+      },
+      "duration" : {
+        "startTimestampMs" : "1564319765269",
+        "endTimestampMs" : "1564375956620"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13225817,
+      "centerLngE7" : 367720317,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 4.8854017
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 1.2634491
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.1712682
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 1.0310773
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.8308122
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 0.5683381
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12870753,
+        "longitudeE7" : 368181721,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564375956620",
+        "endTimestampMs" : "1564380230923"
+      },
+      "distance" : 6727,
+      "activityType" : "MOTORCYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 27.631365781500566
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 26.461538616885257
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.474384076271303
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1564380296059",
+        "location" : {
+          "latitudeE7" : -12990433,
+          "longitudeE7" : 368118489,
+          "accuracyMetres" : 119
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12870753,
+        "longitudeE7" : 368181721,
+        "placeId" : "ChIJBXl0mNAQLxgRonCftbe_yvg",
+        "address" : "Posta St\nNairobi City\nKenya",
+        "name" : "Nyayo House, Nairobi.",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 24.966656
+      },
+      "duration" : {
+        "startTimestampMs" : "1564380230923",
+        "endTimestampMs" : "1564381597825"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -12864786,
+      "centerLngE7" : 368182414,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12860317,
+        "longitudeE7" : 368192429,
+        "placeId" : "ChIJj7BJztAQLxgR-Estl4r3SGU",
+        "locationConfidence" : 8.537893
+      }, {
+        "latitudeE7" : -12863615,
+        "longitudeE7" : 368191197,
+        "placeId" : "ChIJacZHsdAQLxgRyfUtMNK8akw",
+        "locationConfidence" : 6.9396596
+      }, {
+        "latitudeE7" : -12861729,
+        "longitudeE7" : 368180770,
+        "placeId" : "ChIJ3fgQ6dAQLxgRbLBqv4NZmHs",
+        "locationConfidence" : 5.590026
+      }, {
+        "latitudeE7" : -12903935,
+        "longitudeE7" : 368165834,
+        "placeId" : "ChIJDRY3F9sQLxgRXa-v5EtHDqg",
+        "locationConfidence" : 3.185821
+      }, {
+        "latitudeE7" : -12866330,
+        "longitudeE7" : 368191193,
+        "placeId" : "ChIJGVcDt9AQLxgRVMBKEcxI1hw",
+        "locationConfidence" : 1.8722594
+      }, {
+        "latitudeE7" : -12871562,
+        "longitudeE7" : 368182245,
+        "placeId" : "ChIJBXl0mNAQLxgRhMvnqt8z5Yw",
+        "locationConfidence" : 1.8599805
+      }, {
+        "latitudeE7" : -12847308,
+        "longitudeE7" : 368185510,
+        "placeId" : "ChIJTVrPPtEQLxgRB9VcYvvRSfQ",
+        "locationConfidence" : 1.4278731
+      }, {
+        "latitudeE7" : -12866490,
+        "longitudeE7" : 368181260,
+        "placeId" : "ChIJVaxgkdAQLxgRxrCuVb_ZvqI",
+        "locationConfidence" : 1.1140884
+      }, {
+        "latitudeE7" : -12865043,
+        "longitudeE7" : 368173497,
+        "placeId" : "ChIJf3dVj9AQLxgRggSvsCpNkpE",
+        "locationConfidence" : 0.9438673
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12870753,
+        "longitudeE7" : 368181721,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12868535,
+        "longitudeE7" : 368282777,
+        "sourceInfo" : {
+          "deviceTag" : 518402995
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564381597825",
+        "endTimestampMs" : "1564382744140"
+      },
+      "distance" : 1658,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 65.18533876766011
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 23.209824144074314
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 6.757541378230643
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12872687,
+          "lngE7" : 368177642
+        }, {
+          "latE7" : -12920216,
+          "lngE7" : 368201370
+        }, {
+          "latE7" : -12913298,
+          "lngE7" : 368235664
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12868535,
+        "longitudeE7" : 368282777,
+        "placeId" : "ChIJwftuhSgRLxgRwgCZdtX77J4",
+        "address" : "Opposite Equity Bank\nMfangano St\nNairobi\nKenya",
+        "name" : "Mitihani House",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 16.347054
+      },
+      "duration" : {
+        "startTimestampMs" : "1564382744140",
+        "endTimestampMs" : "1564383111924"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -12874505,
+          "longitudeE7" : 368285265,
+          "placeId" : "ChIJN4xaJiYRLxgRzymybHXmQeM",
+          "address" : "Reli Co-op House\nMfangano St\nNairobi\nKenya",
+          "name" : "Tuskys Supermarket",
+          "sourceInfo" : {
+            "deviceTag" : 450382058
+          },
+          "locationConfidence" : 2.6911988
+        },
+        "duration" : {
+          "startTimestampMs" : "1564382744140",
+          "endTimestampMs" : "1564383111924"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -12874400,
+        "centerLngE7" : 368285467,
+        "visitConfidence" : 84,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -12873292,
+          "longitudeE7" : 368283807,
+          "placeId" : "ChIJzS0UKCYRLxgRpDSHDYlc7MA",
+          "locationConfidence" : 2.1894095
+        }, {
+          "latitudeE7" : -12881070,
+          "longitudeE7" : 368286920,
+          "placeId" : "ChIJe7ikPCYRLxgRboFnrLiwDcI",
+          "locationConfidence" : 0.6571889
+        }, {
+          "latitudeE7" : -12872812,
+          "longitudeE7" : 368282824,
+          "placeId" : "ChIJV-gIOyYRLxgRNgHVa4t_rho",
+          "locationConfidence" : 0.2535267
+        }, {
+          "latitudeE7" : -12875407,
+          "longitudeE7" : 368286338,
+          "placeId" : "ChIJ618gJCYRLxgRAQw7Cr0gVyI",
+          "locationConfidence" : 0.2383235
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -12874400,
+      "centerLngE7" : 368285467,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12874505,
+        "longitudeE7" : 368285265,
+        "placeId" : "ChIJN4xaJiYRLxgRzymybHXmQeM",
+        "locationConfidence" : 13.759349
+      }, {
+        "latitudeE7" : -12873292,
+        "longitudeE7" : 368283807,
+        "placeId" : "ChIJzS0UKCYRLxgRpDSHDYlc7MA",
+        "locationConfidence" : 11.19384
+      }, {
+        "latitudeE7" : -12881070,
+        "longitudeE7" : 368286920,
+        "placeId" : "ChIJe7ikPCYRLxgRboFnrLiwDcI",
+        "locationConfidence" : 3.3600233
+      }, {
+        "latitudeE7" : -12872812,
+        "longitudeE7" : 368282824,
+        "placeId" : "ChIJV-gIOyYRLxgRNgHVa4t_rho",
+        "locationConfidence" : 1.2962111
+      }, {
+        "latitudeE7" : -12875407,
+        "longitudeE7" : 368286338,
+        "placeId" : "ChIJ618gJCYRLxgRAQw7Cr0gVyI",
+        "locationConfidence" : 1.2184815
+      }, {
+        "latitudeE7" : -12872829,
+        "longitudeE7" : 368281469,
+        "placeId" : "ChIJ6xJzgigRLxgRHe9sm0HBrLQ",
+        "locationConfidence" : 1.0503474
+      }, {
+        "latitudeE7" : -12878990,
+        "longitudeE7" : 368287410,
+        "placeId" : "ChIJoYKAPCYRLxgRwaSIFG2tylE",
+        "locationConfidence" : 0.95706433
+      }, {
+        "latitudeE7" : -12868585,
+        "longitudeE7" : 368283525,
+        "placeId" : "ChIJdyL8jygRLxgReJtMfaAwu50",
+        "locationConfidence" : 0.9207236
+      }, {
+        "latitudeE7" : -12871082,
+        "longitudeE7" : 368279344,
+        "placeId" : "ChIJ4V87gSgRLxgRfhnRmE_pYCs",
+        "locationConfidence" : 0.7410247
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12868535,
+        "longitudeE7" : 368282777,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564383111924",
+        "endTimestampMs" : "1564385416897"
+      },
+      "distance" : 9280,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 53.72158707638002
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 35.14454944311707
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.804307844953282
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12869303,
+          "lngE7" : 368281173
+        }, {
+          "latE7" : -13274333,
+          "lngE7" : 367914619
+        }, {
+          "latE7" : -13234435,
+          "lngE7" : 367793502
+        }, {
+          "latE7" : -13234378,
+          "lngE7" : 367789306
+        }, {
+          "latE7" : -13226066,
+          "lngE7" : 367719192
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -13278691,
+          "lngE7" : 367892884,
+          "timestampMs" : "1564384300320",
+          "accuracyMeters" : 77
+        }, {
+          "latE7" : -13235825,
+          "lngE7" : 367793509,
+          "timestampMs" : "1564384758163",
+          "accuracyMeters" : 93
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564385477009",
+        "location" : {
+          "latitudeE7" : -13225371,
+          "longitudeE7" : 367723169,
+          "accuracyMetres" : 96
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 77.13623
+      },
+      "duration" : {
+        "startTimestampMs" : "1564385416897",
+        "endTimestampMs" : "1564407343479"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13228296,
+      "centerLngE7" : 367722258,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 16.852999
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.9200134
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 1.3116754
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 0.80350876
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.636246
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.48413986
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12951740,
+        "longitudeE7" : 367990691,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564407343479",
+        "endTimestampMs" : "1564408943751"
+      },
+      "distance" : 4382,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 61.1785761544073
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 28.085638952078295
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.428402565311625
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13226066,
+          "lngE7" : 367719192
+        }, {
+          "latE7" : -13272840,
+          "lngE7" : 367914085
+        }, {
+          "latE7" : -12950849,
+          "lngE7" : 367990875
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564409099694",
+        "location" : {
+          "latitudeE7" : -12949859,
+          "longitudeE7" : 367988889,
+          "accuracyMetres" : 106
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12951740,
+        "longitudeE7" : 367990691,
+        "placeId" : "ChIJsUcwGr4QLxgR9lJQU0UkzmU",
+        "address" : "3rd Floor, Unipen Flats - Block A\nHurlingham Court\nArgwings Kodhek Rd\nNairobi\nKenya",
+        "name" : "University Of Nairobi Pension Scheme 2007",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 20.877964
+      },
+      "duration" : {
+        "startTimestampMs" : "1564408943751",
+        "endTimestampMs" : "1564410466179"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -12948478,
+      "centerLngE7" : 367987580,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12947387,
+        "longitudeE7" : 367994447,
+        "placeId" : "ChIJZ9ZKA74QLxgROjjLlYbyENk",
+        "locationConfidence" : 14.353313
+      }, {
+        "latitudeE7" : -12952980,
+        "longitudeE7" : 367990396,
+        "placeId" : "ChIJF-LyG74QLxgRMkh0R2mpX0Q",
+        "locationConfidence" : 3.7055652
+      }, {
+        "latitudeE7" : -12944941,
+        "longitudeE7" : 367983608,
+        "placeId" : "ChIJId_mE74QLxgR6uKlzRMgFWg",
+        "locationConfidence" : 2.4798172
+      }, {
+        "latitudeE7" : -12950748,
+        "longitudeE7" : 367988593,
+        "placeId" : "ChIJA8v9D74QLxgRyCvLZ8gU8MU",
+        "locationConfidence" : 2.267043
+      }, {
+        "latitudeE7" : -12953342,
+        "longitudeE7" : 367988608,
+        "placeId" : "ChIJM7zQHL4QLxgRXJrh90qXM2c",
+        "locationConfidence" : 1.6609204
+      }, {
+        "latitudeE7" : -12947178,
+        "longitudeE7" : 367992948,
+        "placeId" : "ChIJNwGrFb4QLxgRpwYfvwy83Ew",
+        "locationConfidence" : 1.586497
+      }, {
+        "latitudeE7" : -12948246,
+        "longitudeE7" : 367978850,
+        "placeId" : "ChIJNYdl4b0QLxgR4izzn6eq1qQ",
+        "locationConfidence" : 0.8254487
+      }, {
+        "latitudeE7" : -12944862,
+        "longitudeE7" : 367988476,
+        "placeId" : "ChIJNeTxPb4QLxgRDm6CDPkl-gs",
+        "locationConfidence" : 0.674944
+      }, {
+        "latitudeE7" : -12951648,
+        "longitudeE7" : 367989724,
+        "placeId" : "ChIJYQGlGL4QLxgR2WQUSwsGcOc",
+        "locationConfidence" : 0.67211264
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12951740,
+        "longitudeE7" : 367990691,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12973607,
+        "longitudeE7" : 368110932,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564410466179",
+        "endTimestampMs" : "1564412143555"
+      },
+      "distance" : 1409,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 81.17744490837883
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.06297869123679
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.413449437704406
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12950849,
+          "lngE7" : 367990875
+        }, {
+          "latE7" : -12968196,
+          "lngE7" : 368073806
+        }, {
+          "latE7" : -12973575,
+          "lngE7" : 368109779
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -12960953,
+          "lngE7" : 368083327,
+          "timestampMs" : "1564411672729",
+          "accuracyMeters" : 22
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12964370,
+        "longitudeE7" : 368093140,
+        "placeId" : "ChIJN5dgHcoRLxgR2zdjWbITEXc",
+        "address" : "Ngong Rd\nNorth\nKenya",
+        "name" : "Nairobi Club",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 75.87581
+      },
+      "duration" : {
+        "startTimestampMs" : "1564412143555",
+        "endTimestampMs" : "1564420911525"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -12984803,
+          "longitudeE7" : 368105024,
+          "placeId" : "ChIJ5b-NPOkQLxgR5f27LPtFXgw",
+          "address" : "Chyulu Rd\nNairobi City\nKenya",
+          "name" : "Nairobi Club Tennis Courts",
+          "sourceInfo" : {
+            "deviceTag" : 450382058
+          },
+          "locationConfidence" : 34.593567
+        },
+        "duration" : {
+          "startTimestampMs" : "1564416665562",
+          "endTimestampMs" : "1564420911525"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : -12981250,
+        "centerLngE7" : 368110529,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -12976330,
+          "longitudeE7" : 368107381,
+          "placeId" : "ChIJPwiGD-kQLxgR_pWaZVFO1bI",
+          "locationConfidence" : 10.33779
+        }, {
+          "latitudeE7" : -12981528,
+          "longitudeE7" : 368114656,
+          "placeId" : "ChIJKS_9JukQLxgRWbAmRjrVmN4",
+          "locationConfidence" : 3.8030014
+        }, {
+          "latitudeE7" : -12982930,
+          "longitudeE7" : 368114450,
+          "placeId" : "ChIJf0LEI-kQLxgROWJZqyiApYI",
+          "locationConfidence" : 3.1998878
+        }, {
+          "latitudeE7" : -12991680,
+          "longitudeE7" : 368116640,
+          "placeId" : "ChIJ51QU1egQLxgRTHgAwT8zrC8",
+          "locationConfidence" : 0.9761211
+        }, {
+          "latitudeE7" : -12999659,
+          "longitudeE7" : 368103093,
+          "placeId" : "ChIJX-4jtu4QLxgRKIoiAub0j_Q",
+          "locationConfidence" : 0.96897167
+        }, {
+          "latitudeE7" : -12984690,
+          "longitudeE7" : 368119270,
+          "placeId" : "ChIJJxFM3OgQLxgRtyU45bTrT7g",
+          "locationConfidence" : 0.4510881
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -12980216,
+      "centerLngE7" : 368109986,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12989043,
+        "longitudeE7" : 368115397,
+        "placeId" : "ChIJVSbBqOkQLxgRHre3O1XCsWI",
+        "locationConfidence" : 5.0969057
+      }, {
+        "latitudeE7" : -12981528,
+        "longitudeE7" : 368114656,
+        "placeId" : "ChIJKS_9JukQLxgRWbAmRjrVmN4",
+        "locationConfidence" : 1.8558071
+      }, {
+        "latitudeE7" : -12982397,
+        "longitudeE7" : 368113285,
+        "placeId" : "ChIJxUCH68EQLxgRoVWAxowYQ8M",
+        "locationConfidence" : 1.3783683
+      }, {
+        "latitudeE7" : -12982930,
+        "longitudeE7" : 368114450,
+        "placeId" : "ChIJf0LEI-kQLxgROWJZqyiApYI",
+        "locationConfidence" : 1.3304112
+      }, {
+        "latitudeE7" : -12984690,
+        "longitudeE7" : 368119270,
+        "placeId" : "ChIJJxFM3OgQLxgRtyU45bTrT7g",
+        "locationConfidence" : 0.55541515
+      }, {
+        "latitudeE7" : -12983498,
+        "longitudeE7" : 368120313,
+        "placeId" : "ChIJb4fj2-gQLxgREAODEEp9Qco",
+        "locationConfidence" : 0.46326676
+      }, {
+        "latitudeE7" : -12978329,
+        "longitudeE7" : 368112907,
+        "placeId" : "ChIJhQ28HOkQLxgR-lcEYtRWllw",
+        "locationConfidence" : 0.4590907
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -12973607,
+          "lngE7" : 368110932,
+          "timestampMs" : "1564412146570",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : -12979187,
+          "lngE7" : 368107869,
+          "timestampMs" : "1564412385462",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : -12975810,
+          "lngE7" : 368104431,
+          "timestampMs" : "1564414409268",
+          "accuracyMeters" : 96
+        }, {
+          "latE7" : -13023745,
+          "lngE7" : 368165078,
+          "timestampMs" : "1564415188144",
+          "accuracyMeters" : 56
+        }, {
+          "latE7" : -13023745,
+          "lngE7" : 368165078,
+          "timestampMs" : "1564415369958",
+          "accuracyMeters" : 60
+        }, {
+          "latE7" : -12975939,
+          "lngE7" : 368143330,
+          "timestampMs" : "1564416399468",
+          "accuracyMeters" : 96
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12979553,
+        "longitudeE7" : 368110300,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564420911525",
+        "endTimestampMs" : "1564425638015"
+      },
+      "distance" : 5156,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 76.37054089722787
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.988053929626972
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 3.88150980235459
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12979531,
+          "lngE7" : 368109588
+        }, {
+          "latE7" : -13274333,
+          "lngE7" : 367914619
+        }, {
+          "latE7" : -13221677,
+          "lngE7" : 367719993
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564425638015",
+        "location" : {
+          "latitudeE7" : -13225783,
+          "longitudeE7" : 367719154,
+          "accuracyMetres" : 97
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 73.31511
+      },
+      "duration" : {
+        "startTimestampMs" : "1564425638015",
+        "endTimestampMs" : "1564458303972"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13221083,
+      "centerLngE7" : 367737905,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 20.088469
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 1.9593788
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 1.0710862
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.9122197
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.6766066
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 0.64994913
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 0.620979
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13225675,
+        "longitudeE7" : 367719250,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12984249,
+        "longitudeE7" : 368110293,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564458303972",
+        "endTimestampMs" : "1564470342142"
+      },
+      "distance" : 5109,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 67.0316441643938
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 13.502210814804636
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.290320292500448
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13226050,
+          "lngE7" : 367719306
+        }, {
+          "latE7" : -12983355,
+          "lngE7" : 368109474
+        }, {
+          "latE7" : -12954299,
+          "lngE7" : 368098945
+        }, {
+          "latE7" : -13226931,
+          "lngE7" : 367720832
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -12984250,
+          "lngE7" : 368110275,
+          "timestampMs" : "1564464934546",
+          "accuracyMeters" : 37
+        }, {
+          "latE7" : -12958064,
+          "lngE7" : 368099022,
+          "timestampMs" : "1564467439413",
+          "accuracyMeters" : 98
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "address" : "Nairobi\nKenya",
+        "name" : "Sunvalley Phase II home",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 41.809853
+      },
+      "duration" : {
+        "startTimestampMs" : "1564470624690",
+        "endTimestampMs" : "1564471177821"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13227680,
+      "centerLngE7" : 367721840,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "locationConfidence" : 35.867966
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 9.320803
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 5.2025924
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 3.3485348
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 1.825812
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.1360152
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564471177821",
+        "endTimestampMs" : "1564473933841"
+      },
+      "distance" : 3520,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 82.18095515936741
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 6.736616964977234
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.478520751017275
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13221677,
+          "lngE7" : 367719993
+        }, {
+          "latE7" : -13223299,
+          "lngE7" : 367722015
+        }, {
+          "latE7" : -13223003,
+          "lngE7" : 367723770
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -13223740,
+          "lngE7" : 367723889,
+          "timestampMs" : "1564473272152",
+          "accuracyMeters" : 60
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564473997301",
+        "location" : {
+          "latitudeE7" : -13224763,
+          "longitudeE7" : 367721447,
+          "accuracyMetres" : 76
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 76.31294
+      },
+      "duration" : {
+        "startTimestampMs" : "1564473933841",
+        "endTimestampMs" : "1564483983921"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13224006,
+      "centerLngE7" : 367722834,
+      "visitConfidence" : 70,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 10.296968
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 4.5893354
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 4.074455
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.191553
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 0.87292916
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.8317877
+      }, {
+        "latitudeE7" : -13207953,
+        "longitudeE7" : 367731975,
+        "placeId" : "ChIJYyfI75oaLxgRVG-BCBS-e1g",
+        "locationConfidence" : 0.67743176
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.6381187
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13225783,
+        "longitudeE7" : 367719154,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13411825,
+        "longitudeE7" : 367537489,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564483983921",
+        "endTimestampMs" : "1564488680602"
+      },
+      "distance" : 7149,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 75.19910164695696
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 15.380261591319734
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.5739802194673915
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13226066,
+          "lngE7" : 367719192
+        }, {
+          "latE7" : -13415697,
+          "lngE7" : 367582092
+        }, {
+          "latE7" : -13410723,
+          "lngE7" : 367537727
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564488617986",
+        "location" : {
+          "latitudeE7" : -13209918,
+          "longitudeE7" : 367353442,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13411825,
+        "longitudeE7" : 367537489,
+        "placeId" : "ChIJM_X3MLUaLxgRu0DTj_Kk06A",
+        "address" : "Nairobi West\nLangata Rd\nNairobi\nKenya",
+        "name" : "Kenol-Langata",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 41.319588
+      },
+      "duration" : {
+        "startTimestampMs" : "1564488680602",
+        "endTimestampMs" : "1564488981518"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13409900,
+      "centerLngE7" : 367535000,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13412460,
+        "longitudeE7" : 367534970,
+        "placeId" : "ChIJA8XXJK8aLxgR5VuyrHDztKI",
+        "locationConfidence" : 15.059342
+      }, {
+        "latitudeE7" : -13432790,
+        "longitudeE7" : 367533309,
+        "placeId" : "ChIJ55oaNzMFLxgRttvu3bduYIY",
+        "locationConfidence" : 6.085416
+      }, {
+        "latitudeE7" : -13411583,
+        "longitudeE7" : 367538528,
+        "placeId" : "ChIJ4TJwIGoQLxgRRUFUU_eMkYA",
+        "locationConfidence" : 5.144752
+      }, {
+        "latitudeE7" : -13401565,
+        "longitudeE7" : 367535625,
+        "placeId" : "ChIJAwBsQMwaLxgR1UKk7WUbyFE",
+        "locationConfidence" : 4.122842
+      }, {
+        "latitudeE7" : -13411724,
+        "longitudeE7" : 367538297,
+        "placeId" : "ChIJmyP4iswaLxgRQ89tbyvrvfI",
+        "locationConfidence" : 4.0021415
+      }, {
+        "latitudeE7" : -13409510,
+        "longitudeE7" : 367536090,
+        "placeId" : "ChIJ-ZQzXswaLxgRA5Bg8zZtauk",
+        "locationConfidence" : 3.2855093
+      }, {
+        "latitudeE7" : -13406828,
+        "longitudeE7" : 367532657,
+        "placeId" : "ChIJgyJsW8waLxgRmpxbqS3FcSA",
+        "locationConfidence" : 2.1793928
+      }, {
+        "latitudeE7" : -13408287,
+        "longitudeE7" : 367534795,
+        "placeId" : "ChIJffwrXMwaLxgREyc3zY39x8Y",
+        "locationConfidence" : 1.4942555
+      }, {
+        "latitudeE7" : -13411285,
+        "longitudeE7" : 367538508,
+        "placeId" : "ChIJc2thiswaLxgRVZ904Ypg5lQ",
+        "locationConfidence" : 1.4151818
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13411825,
+        "longitudeE7" : 367537489,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13203671,
+        "longitudeE7" : 367041340,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564488981518",
+        "endTimestampMs" : "1564490339014"
+      },
+      "distance" : 6151,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 78.6524902519411
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 11.0036736389945
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 6.440145642558782
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13410723,
+          "lngE7" : 367537727
+        }, {
+          "latE7" : -13223077,
+          "lngE7" : 367071418
+        }, {
+          "latE7" : -13199589,
+          "lngE7" : 367046165
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564490339014",
+        "location" : {
+          "latitudeE7" : -13203671,
+          "longitudeE7" : 367041340,
+          "accuracyMetres" : 86
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13203671,
+        "longitudeE7" : 367041340,
+        "placeId" : "ChIJfUxM33obLxgRfzzjg6WeI10",
+        "address" : "Dagoretti Rd\nNairobi City\nKenya",
+        "name" : "The Hub Karen",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 96.67752
+      },
+      "duration" : {
+        "startTimestampMs" : "1564490339014",
+        "endTimestampMs" : "1564494474080"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : -13198332,
+          "longitudeE7" : 367041520,
+          "placeId" : "ChIJdaJK53obLxgRZ0ZZC9hVAzU",
+          "address" : "Dagoretti Rd\nNairobi\nKenya",
+          "name" : "DECATHLON The Hub-Karen",
+          "sourceInfo" : {
+            "deviceTag" : 450382058
+          },
+          "locationConfidence" : 32.139935
+        },
+        "duration" : {
+          "startTimestampMs" : "1564490339014",
+          "endTimestampMs" : "1564490833972"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -13196299,
+        "centerLngE7" : 367034654,
+        "visitConfidence" : 94,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -13197820,
+          "longitudeE7" : 367034830,
+          "placeId" : "ChIJbVVWIXsbLxgRa4pb44mTL7I",
+          "locationConfidence" : 13.584895
+        }, {
+          "latitudeE7" : -13204526,
+          "longitudeE7" : 367041743,
+          "placeId" : "ChIJ6SWyKWUbLxgR-kOxbqArfHo",
+          "locationConfidence" : 3.846188
+        }, {
+          "latitudeE7" : -13208780,
+          "longitudeE7" : 367039285,
+          "placeId" : "ChIJj9OqK2UbLxgRYuFcf8rZzss",
+          "locationConfidence" : 3.8039093
+        }, {
+          "latitudeE7" : -13193973,
+          "longitudeE7" : 367032893,
+          "placeId" : "ChIJg7ni3XobLxgRFJU7OZQ5E8k",
+          "locationConfidence" : 2.0440137
+        }, {
+          "latitudeE7" : -13196104,
+          "longitudeE7" : 367036715,
+          "placeId" : "ChIJ9Zac4nobLxgR_iZAjr79Rs0",
+          "locationConfidence" : 1.6726434
+        }, {
+          "latitudeE7" : -13196860,
+          "longitudeE7" : 367043654,
+          "placeId" : "ChIJBwUeF6AcLxgRuUWLRYGTuvw",
+          "locationConfidence" : 1.6058558
+        }, {
+          "latitudeE7" : -13199589,
+          "longitudeE7" : 367032222,
+          "placeId" : "ChIJ85qPL3sbLxgRYfgaxOOX4xI",
+          "locationConfidence" : 1.5178986
+        }, {
+          "latitudeE7" : -13201051,
+          "longitudeE7" : 367033755,
+          "placeId" : "ChIJ6SsZASUXLxgRmP0vslJXNUU",
+          "locationConfidence" : 1.0209322
+        }, {
+          "latitudeE7" : -13203944,
+          "longitudeE7" : 367036464,
+          "placeId" : "ChIJI6wJ4nobLxgR7YmvPaFolek",
+          "locationConfidence" : 0.8958311
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : -13196860,
+          "longitudeE7" : 367043654,
+          "placeId" : "ChIJBwUeF6AcLxgRuUWLRYGTuvw",
+          "name" : "Zucchini The Hub Karen",
+          "sourceInfo" : {
+            "deviceTag" : 450382058
+          },
+          "locationConfidence" : 10.226946
+        },
+        "duration" : {
+          "startTimestampMs" : "1564492717005",
+          "endTimestampMs" : "1564494474080"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : -13193729,
+        "centerLngE7" : 367041300,
+        "visitConfidence" : 94,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : -13199626,
+          "longitudeE7" : 367042125,
+          "placeId" : "ChIJvw3yKmUbLxgRHM8_3EPnVk0",
+          "locationConfidence" : 6.347265
+        }, {
+          "latitudeE7" : -13170096,
+          "longitudeE7" : 367037505,
+          "placeId" : "ChIJsybZ0nsbLxgRf_fGyrx6E_o",
+          "locationConfidence" : 4.148943
+        }, {
+          "latitudeE7" : -13193973,
+          "longitudeE7" : 367032893,
+          "placeId" : "ChIJg7ni3XobLxgRFJU7OZQ5E8k",
+          "locationConfidence" : 3.8352056
+        }, {
+          "latitudeE7" : -13208780,
+          "longitudeE7" : 367039285,
+          "placeId" : "ChIJj9OqK2UbLxgRYuFcf8rZzss",
+          "locationConfidence" : 3.4952383
+        }, {
+          "latitudeE7" : -13198332,
+          "longitudeE7" : 367041520,
+          "placeId" : "ChIJdaJK53obLxgRZ0ZZC9hVAzU",
+          "locationConfidence" : 3.462844
+        }, {
+          "latitudeE7" : -13204526,
+          "longitudeE7" : 367041743,
+          "placeId" : "ChIJ6SWyKWUbLxgR-kOxbqArfHo",
+          "locationConfidence" : 2.6571138
+        }, {
+          "latitudeE7" : -13196934,
+          "longitudeE7" : 367041585,
+          "placeId" : "ChIJZQEp3HobLxgR4oneU8nocks",
+          "locationConfidence" : 2.6366038
+        }, {
+          "latitudeE7" : -13196104,
+          "longitudeE7" : 367036715,
+          "placeId" : "ChIJ9Zac4nobLxgR_iZAjr79Rs0",
+          "locationConfidence" : 1.8909382
+        }, {
+          "latitudeE7" : -13197820,
+          "longitudeE7" : 367034830,
+          "placeId" : "ChIJbVVWIXsbLxgRa4pb44mTL7I",
+          "locationConfidence" : 1.351328
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : -13193986,
+      "centerLngE7" : 367040635,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13230978,
+        "longitudeE7" : 367039847,
+        "placeId" : "ChIJr-KeQWQbLxgRv0mZ8dc3zmU",
+        "locationConfidence" : 0.3085791
+      }, {
+        "latitudeE7" : -13199482,
+        "longitudeE7" : 367057474,
+        "placeId" : "ChIJE0S7u3obLxgRwwKGa5iBiIM",
+        "locationConfidence" : 0.25728515
+      }, {
+        "latitudeE7" : -13205820,
+        "longitudeE7" : 367057870,
+        "placeId" : "ChIJh41vTWUbLxgRW66oOrIeerI",
+        "locationConfidence" : 0.21383476
+      }, {
+        "latitudeE7" : -13170096,
+        "longitudeE7" : 367037505,
+        "placeId" : "ChIJsybZ0nsbLxgRf_fGyrx6E_o",
+        "locationConfidence" : 0.19113965
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -13195920,
+          "lngE7" : 367041797,
+          "timestampMs" : "1564493136555",
+          "accuracyMeters" : 47
+        }, {
+          "latE7" : -13192463,
+          "lngE7" : 367038451,
+          "timestampMs" : "1564494156864",
+          "accuracyMeters" : 96
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13194337,
+        "longitudeE7" : 367038470,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225573,
+        "longitudeE7" : 367719221,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564494474080",
+        "endTimestampMs" : "1564498179679"
+      },
+      "distance" : 9062,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.9835181719545
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.2350980240764176
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.0064186481478394
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13191679,
+          "lngE7" : 367041778
+        }, {
+          "latE7" : -13220331,
+          "lngE7" : 367072067
+        }, {
+          "latE7" : -13199807,
+          "lngE7" : 367182655
+        }, {
+          "latE7" : -13419419,
+          "lngE7" : 367613677
+        }, {
+          "latE7" : -13226052,
+          "lngE7" : 367719306
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : -13227295,
+          "lngE7" : 367072290,
+          "timestampMs" : "1564494877323",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : -13221922,
+          "lngE7" : 367179536,
+          "timestampMs" : "1564495289000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564498034739",
+        "location" : {
+          "latitudeE7" : -13225172,
+          "longitudeE7" : 367659821,
+          "accuracyMetres" : 75
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13247614,
+        "longitudeE7" : 367774827,
+        "placeId" : "ChIJKaE425gaLxgRDaL6f5b5tL8",
+        "address" : "Nairobi\nKenya",
+        "name" : "Sunvalley Estate Phase I House 47",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 88.10165
+      },
+      "duration" : {
+        "startTimestampMs" : "1564498179679",
+        "endTimestampMs" : "1564581898933"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : -13242817,
+      "centerLngE7" : 367727811,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13285614,
+        "longitudeE7" : 367781281,
+        "placeId" : "ChIJFQkXo6EaLxgR5Gtmz1axKx8",
+        "locationConfidence" : 2.9838042
+      }, {
+        "latitudeE7" : -13268104,
+        "longitudeE7" : 367741397,
+        "placeId" : "ChIJJRLYTJgaLxgRK7D4M9jDEAQ",
+        "locationConfidence" : 2.4122655
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 1.946832
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 1.8375056
+      }, {
+        "latitudeE7" : -13266978,
+        "longitudeE7" : 367748022,
+        "placeId" : "ChIJIZM3mpgaLxgRrzpMDLfDjPU",
+        "locationConfidence" : 1.3783947
+      }, {
+        "latitudeE7" : -13253400,
+        "longitudeE7" : 367730299,
+        "placeId" : "ChIJM2YWcZgaLxgRF0I11A5h98A",
+        "locationConfidence" : 0.5080099
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -13225675,
+        "longitudeE7" : 367719250,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12822257,
+        "longitudeE7" : 368157620,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564581898933",
+        "endTimestampMs" : "1564586992624"
+      },
+      "distance" : 6791,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 71.1338023228442
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 13.225243228686164
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.374676943428698
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -13226050,
+          "lngE7" : 367719306
+        }, {
+          "latE7" : -12929149,
+          "lngE7" : 368203353
+        }, {
+          "latE7" : -12821271,
+          "lngE7" : 368160057
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564586992624",
+        "location" : {
+          "latitudeE7" : -12822257,
+          "longitudeE7" : 368157620,
+          "accuracyMetres" : 75
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -12822257,
+        "longitudeE7" : 368157620,
+        "placeId" : "ChIJI04_D9MQLxgRQ1aagZIRFDw",
+        "address" : "kemu hub\nMonrovia St\nNairobi\nKenya",
+        "name" : "Kenya Methodist University-Nairobi Campus",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 9.405848
+      },
+      "duration" : {
+        "startTimestampMs" : "1564586992624",
+        "endTimestampMs" : "1564593263643"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : -12819900,
+      "centerLngE7" : 368162400,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -12827317,
+        "longitudeE7" : 368161712,
+        "placeId" : "ChIJ28rbONIQLxgRlxsD9wNnsGA",
+        "locationConfidence" : 9.099746
+      }, {
+        "latitudeE7" : -12823371,
+        "longitudeE7" : 368160261,
+        "placeId" : "ChIJP49xh2kfLxgRvlEvKFdgqtM",
+        "locationConfidence" : 7.6124163
+      }, {
+        "latitudeE7" : -12823310,
+        "longitudeE7" : 368158520,
+        "placeId" : "ChIJPce9Q9IQLxgRwaGNlMeR5bA",
+        "locationConfidence" : 6.577303
+      }, {
+        "latitudeE7" : -12816666,
+        "longitudeE7" : 368162926,
+        "placeId" : "ChIJU_3D5NIQLxgR-vOdQ-niThs",
+        "locationConfidence" : 6.177096
+      }, {
+        "latitudeE7" : -12816638,
+        "longitudeE7" : 368162960,
+        "placeId" : "ChIJq2GkU9IQLxgRRsb2vA0ro_E",
+        "locationConfidence" : 5.394864
+      }, {
+        "latitudeE7" : -12819000,
+        "longitudeE7" : 368162370,
+        "placeId" : "ChIJ7aDwWdIQLxgR1gYl6cf4n1g",
+        "locationConfidence" : 3.49721
+      }, {
+        "latitudeE7" : -12822951,
+        "longitudeE7" : 368165853,
+        "placeId" : "ChIJDRiFTdIQLxgRMBLAp4oeb-0",
+        "locationConfidence" : 2.3210347
+      }, {
+        "latitudeE7" : -12828215,
+        "longitudeE7" : 368169262,
+        "placeId" : "ChIJkapPSNIQLxgRPXnwo84Ni0A",
+        "locationConfidence" : 1.1093907
+      }, {
+        "latitudeE7" : -12823322,
+        "longitudeE7" : 368165236,
+        "placeId" : "ChIJI_vqTtIQLxgRsKiYdSwTpx0",
+        "locationConfidence" : 0.5177429
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12822257,
+        "longitudeE7" : 368157620,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -12875073,
+        "longitudeE7" : 368220774,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564593263643",
+        "endTimestampMs" : "1564597242213"
+      },
+      "distance" : 1606,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 38.06119444644327
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.4632955330128
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 13.793284563433675
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12821271,
+          "lngE7" : 368160057
+        }, {
+          "latE7" : -12834854,
+          "lngE7" : 368185005
+        }, {
+          "latE7" : -12875430,
+          "lngE7" : 368220977
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : -12875073,
+        "longitudeE7" : 368220774,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : -13225755,
+        "longitudeE7" : 367720002,
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1564597242213",
+        "endTimestampMs" : "1564598964567"
+      },
+      "distance" : 6796,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 76.57392661294993
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 9.686133884424736
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 7.711167264765615
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : -12875430,
+          "lngE7" : 368220977
+        }, {
+          "latE7" : -12925695,
+          "lngE7" : 368205032
+        }, {
+          "latE7" : -13225951,
+          "lngE7" : 367720031
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1564599050638",
+        "location" : {
+          "latitudeE7" : -13225640,
+          "longitudeE7" : 367719782,
+          "accuracyMetres" : 82
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : -13223681,
+        "longitudeE7" : 367718928,
+        "placeId" : "ChIJM06CDZoaLxgRI589HL1aVYU",
+        "address" : "Nairobi\nKenya",
+        "name" : "Nairobi",
+        "sourceInfo" : {
+          "deviceTag" : 450382058
+        },
+        "locationConfidence" : 77.63656
+      },
+      "duration" : {
+        "startTimestampMs" : "1564598964567",
+        "endTimestampMs" : "1564635485537"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : -13226060,
+      "centerLngE7" : 367720943,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : -13220987,
+        "longitudeE7" : 367719902,
+        "placeId" : "ChIJ7QDX_pkaLxgRCqtX277bPBk",
+        "locationConfidence" : 16.042923
+      }, {
+        "latitudeE7" : -13221908,
+        "longitudeE7" : 367736740,
+        "placeId" : "ChIJN-rmgpkaLxgRrulW1-LSD-k",
+        "locationConfidence" : 1.9712306
+      }, {
+        "latitudeE7" : -13223226,
+        "longitudeE7" : 367742359,
+        "placeId" : "ChIJwZ19encQLxgRdo9MVa6j2og",
+        "locationConfidence" : 0.96110886
+      }, {
+        "latitudeE7" : -13217740,
+        "longitudeE7" : 367742443,
+        "placeId" : "ChIJi936sZsaLxgRCqf5RLtTFpI",
+        "locationConfidence" : 0.84026164
+      }, {
+        "latitudeE7" : -13147855,
+        "longitudeE7" : 367406542,
+        "placeId" : "ChIJM1Zl0vsaLxgRntzSlILvwGg",
+        "locationConfidence" : 0.6529772
+      }, {
+        "latitudeE7" : -13218248,
+        "longitudeE7" : 367744803,
+        "placeId" : "ChIJgUtpsJsaLxgRh4n7i9g5iGg",
+        "locationConfidence" : 0.6186406
+      }, {
+        "latitudeE7" : -13231576,
+        "longitudeE7" : 367704523,
+        "placeId" : "ChIJi0uIspAaLxgRImqqU9Pi5no",
+        "locationConfidence" : 0.5714987
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

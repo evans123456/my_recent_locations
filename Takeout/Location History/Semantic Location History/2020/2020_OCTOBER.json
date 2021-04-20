@@ -1,0 +1,18 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "placeId" : "ChIJLdpN9ELLKBgRAAAAAAAAAAA",
+        "semanticType" : "TYPE_ALIASED_LOCATION",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1602934035000",
+        "endTimestampMs" : "1602934095000"
+      },
+      "placeConfidence" : "USER_CONFIRMED",
+      "visitConfidence" : 100,
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  } ]
+}
